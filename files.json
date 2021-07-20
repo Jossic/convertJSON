@@ -1,0 +1,290 @@
+[{
+  "_id": {
+    "$oid": "607067c082639900115dc5b2"
+  },
+  "location": "https://gites-wao-files.s3.amazonaws.com/fhKKzGkgx-Livret%20accueil%20Manola.pdf",
+  "nomS3": "fhKKzGkgx-Livret accueil Manola.pdf",
+  "nom": "Livret accueil Manola",
+  "descriptif": "Informations pour l'arrivée du gîte manola",
+  "pageAssociee": "Manola - Livret d'accueil",
+  "btnNom": "LIVRET D'ACCUEIL",
+  "createdAt": {
+    "$date": "2021-04-09T14:42:08.071Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T20:32:13.630Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6070682882639900115dc5b3"
+  },
+  "location": "https://gites-wao-files.s3.eu-west-3.amazonaws.com/r9yewBVBK-Livret%20accueil%20Brinchette.pdf",
+  "nomS3": "r9yewBVBK-Livret accueil Brinchette.pdf",
+  "nom": "Livret accueil Brinchette",
+  "descriptif": "Informations pour l'arrivée u gîte brinchette",
+  "pageAssociee": "Brinchette - Livret d'accueil",
+  "btnNom": "LIVRET D'ACCUEIL",
+  "createdAt": {
+    "$date": "2021-04-09T14:43:52.255Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T20:32:25.427Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6070689f82639900115dc5b4"
+  },
+  "location": "https://gites-wao-files.s3.eu-west-3.amazonaws.com/SP5n0myrG-Livret%20accueil%20Lauberoye.pdf",
+  "nomS3": "SP5n0myrG-Livret accueil Lauberoye.pdf",
+  "nom": "Livret accueil Lauberoye",
+  "descriptif": "Informations pour l'arrivée du gîte lauberoye",
+  "pageAssociee": "Lauberoye - Livret d'accueil",
+  "btnNom": "LIVRET D'ACCUEIL",
+  "createdAt": {
+    "$date": "2021-04-09T14:45:51.809Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:23:25.587Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607068ce82639900115dc5b5"
+  },
+  "location": "https://gites-wao-files.s3.eu-west-3.amazonaws.com/mOVCXrKmL-Livret%20accueil%20Petit%20Nay.pdf",
+  "nomS3": "mOVCXrKmL-Livret accueil Petit Nay.pdf",
+  "nom": "Livret accueil Petit Nay",
+  "descriptif": "Informations pour l'arrivée du gîte Petit nay",
+  "pageAssociee": "Petit Nay - Livret d'accueil",
+  "btnNom": "LIVRET D'ACCUEIL",
+  "createdAt": {
+    "$date": "2021-04-09T14:46:38.166Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:23:45.286Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6070699182639900115dc5b6"
+  },
+  "location": "https://gites-wao-files.s3.eu-west-3.amazonaws.com/KSgxi4uQu-Annexe%20contrat%20manola.pdf",
+  "nomS3": "KSgxi4uQu-Annexe contrat manola.pdf",
+  "nom": "Annexe contrat manola",
+  "descriptif": "Disposition des couchages et plan du gîte Manola",
+  "pageAssociee": "Manola - Couchages et plan",
+  "btnNom": "COUCHAGES & PLAN",
+  "createdAt": {
+    "$date": "2021-04-09T14:49:53.802Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:25:29.026Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607069c082639900115dc5b7"
+  },
+  "location": "https://gites-wao-files.s3.eu-west-3.amazonaws.com/DKhGUlfaN-Annexe%20contrat%20Brincherre.pdf",
+  "nomS3": "DKhGUlfaN-Annexe contrat Brincherre.pdf",
+  "nom": "Annexe contrat Brinchette",
+  "descriptif": "Disposition des couchages et plan du gîte Brinchette",
+  "pageAssociee": "Brinchette - Couchages et plan",
+  "btnNom": "COUCHAGES & PLAN",
+  "createdAt": {
+    "$date": "2021-04-09T14:50:40.707Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:26:27.287Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60706a1582639900115dc5b8"
+  },
+  "location": "https://gites-wao-files.s3.eu-west-3.amazonaws.com/l84m_h6-d-Annexe%20contrat%20Lauberoye.pdf",
+  "nomS3": "l84m_h6-d-Annexe contrat Lauberoye.pdf",
+  "nom": "Annexe contrat Lauberoye",
+  "descriptif": "Disposition des couchages et plan du gîte Lauberoye",
+  "pageAssociee": "Lauberoye - Couchages et plan",
+  "btnNom": "COUCHAGES & PLAN",
+  "createdAt": {
+    "$date": "2021-04-09T14:52:05.638Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:27:03.981Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60706a9082639900115dc5b9"
+  },
+  "location": "https://gites-wao-files.s3.eu-west-3.amazonaws.com/cs5RQ3ZPh-Annexe%20contrat%20Petit%20Nay.pdf",
+  "nomS3": "cs5RQ3ZPh-Annexe contrat Petit Nay.pdf",
+  "nom": "Annexe contrat Petit Nay",
+  "descriptif": "Disposition des couchages et plan du gîte Petit Nay",
+  "pageAssociee": "Petit Nay - Couchages et plan",
+  "btnNom": "COUCHAGES & PLAN",
+  "createdAt": {
+    "$date": "2021-04-09T14:54:08.495Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:27:26.512Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60706af682639900115dc5ba"
+  },
+  "location": "https://gites-wao-files.s3.eu-west-3.amazonaws.com/s2NXnqHhZ-Itin%C3%A9raire%20manola.pdf",
+  "nomS3": "s2NXnqHhZ-Itinéraire manola.pdf",
+  "nom": "Itinéraire manola",
+  "descriptif": "Informations sur l'itinéraire pour Manola",
+  "pageAssociee": "",
+  "btnNom": "INFO ITINERAIRE",
+  "createdAt": {
+    "$date": "2021-04-09T14:55:50.657Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T14:55:50.657Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60706b8082639900115dc5bb"
+  },
+  "location": "https://gites-wao-files.s3.eu-west-3.amazonaws.com/PZVbcPckE-Itin%C3%A9raire%20Brinchette.pdf",
+  "nomS3": "PZVbcPckE-Itinéraire Brinchette.pdf",
+  "nom": "Itinéraire Brinchette",
+  "descriptif": "Informations sur l'itinéraire pour Brinchette",
+  "pageAssociee": "",
+  "btnNom": "INFO ITINERAIRE",
+  "createdAt": {
+    "$date": "2021-04-09T14:58:08.292Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T14:58:08.292Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60706bb682639900115dc5bc"
+  },
+  "location": "https://gites-wao-files.s3.eu-west-3.amazonaws.com/S3-odOIAf-Itin%C3%A9raire%20Lauberoye.pdf",
+  "nomS3": "S3-odOIAf-Itinéraire Lauberoye.pdf",
+  "nom": "Itinéraire Lauberoye",
+  "descriptif": "Informations sur l'itinéraire pour Lauberoye",
+  "pageAssociee": "",
+  "btnNom": "INFO ITINERAIRE",
+  "createdAt": {
+    "$date": "2021-04-09T14:59:02.146Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T14:59:02.146Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60706bec82639900115dc5bd"
+  },
+  "location": "https://gites-wao-files.s3.eu-west-3.amazonaws.com/lFa_T2wXe-Itin%C3%A9raire%20Petit%20Nay.pdf",
+  "nomS3": "lFa_T2wXe-Itinéraire Petit Nay.pdf",
+  "nom": "Itinéraire Petit Nay",
+  "descriptif": "Informations pour l'arrivée du gîte petit nay",
+  "pageAssociee": "",
+  "btnNom": "INFO ITINERAIRE",
+  "createdAt": {
+    "$date": "2021-04-09T14:59:56.378Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T14:59:56.378Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60706d9682639900115dc5be"
+  },
+  "location": "https://gites-wao-files.s3.eu-west-3.amazonaws.com/Rt4XNwnrC-D%C3%A9pliant%20publicitaire%20.pdf",
+  "nomS3": "Rt4XNwnrC-Dépliant publicitaire .pdf",
+  "nom": "Dépliant publicitaire ",
+  "descriptif": "Dépliant publicitaire 4 gîtes",
+  "pageAssociee": "Brochure accueil",
+  "btnNom": "NOTRE PUBLICITE",
+  "createdAt": {
+    "$date": "2021-04-09T15:07:02.658Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T15:07:02.658Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60706e8282639900115dc5bf"
+  },
+  "location": "https://gites-wao-files.s3.eu-west-3.amazonaws.com/b20qsQ31Z-3%20chemins%20de%20randonn%C3%A9e.pdf",
+  "nomS3": "b20qsQ31Z-3 chemins de randonnée.pdf",
+  "nom": "3 chemins de randonnée",
+  "descriptif": "Sentiers de randonnée",
+  "pageAssociee": "Sentier de randonnée",
+  "btnNom": "Télécharger ce fichier",
+  "createdAt": {
+    "$date": "2021-04-09T15:10:58.165Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-03T10:41:45.638Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607166da6965fc00117c0e08"
+  },
+  "location": "https://gites-wao-files.s3.amazonaws.com/FghhkG2J_-informations%20pour%20r%C3%A9servation.pdf",
+  "nomS3": "FghhkG2J_-informations pour réservation.pdf",
+  "nom": "informations pour réservation",
+  "descriptif": "Complément et annulation",
+  "pageAssociee": "",
+  "btnNom": "COMPLEMENT D'INFORMATION",
+  "createdAt": {
+    "$date": "2021-04-10T08:50:34.160Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-10T08:50:34.160Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5efe679559c0015a694c4"
+  },
+  "location": "https://gites-wao-files.s3.eu-west-3.amazonaws.com/R4GXxxGTA-Mentions%20l%C3%A9gales.pdf",
+  "nomS3": "R4GXxxGTA-Mentions légales.pdf",
+  "nom": "Mentions légales",
+  "descriptif": "mentions légales obligatoires",
+  "pageAssociee": "",
+  "btnNom": "Mentions légales",
+  "createdAt": {
+    "$date": "2021-06-13T11:45:42.570Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-13T11:45:42.570Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c75b1078942c5968409e9d"
+  },
+  "location": "https://gites-wao-files.s3.eu-west-3.amazonaws.com/-eNoclf5r-Petit%20Nay",
+  "nomS3": "-eNoclf5r-Petit Nay",
+  "nom": "Petit Nay",
+  "descriptif": "Un fichier pour tester",
+  "pageAssociee": "Manola - Livret d'accueil",
+  "btnNom": "Télécharger ce fichier",
+  "createdAt": {
+    "$date": "2021-06-14T13:35:12.324Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-14T13:58:21.675Z"
+  },
+  "__v": 0
+}]

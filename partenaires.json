@@ -1,0 +1,548 @@
+[{
+  "_id": {
+    "$oid": "601dbbca4cf21f59bcab1198"
+  },
+  "actif": true,
+  "nom": "Adresses utiles",
+  "slug": "adresses-utiles",
+  "presPartenaire": "Médecin, pharmacie, garage, commerce, boulangerie",
+  "listePartenairesCards": [
+    {
+      "actif": true,
+      "_id": {
+        "$oid": "604a2c62163e2900118e5d8e"
+      },
+      "titre": "Maison de la santé",
+      "mail": "@",
+      "tel": "03 24 30 99 34",
+      "adresse": "4 Rue de la Petite Barre - 08240 Buzancy",
+      "texte": "Horaires d'ouverture : du lundi au vendredi de 8h à 18h et le samedi de 8h à 12h sur rendez-vous",
+      "site": "https://www.pagesjaunes.fr/pros/08503516",
+      "image": {
+        "$oid": "6047b38d163e2900118e5d2c"
+      },
+      "createdAt": {
+        "$date": "2021-03-11T14:42:42.421Z"
+      },
+      "updatedAt": {
+        "$date": "2021-06-15T10:44:45.951Z"
+      }
+    },
+    {
+      "actif": true,
+      "_id": {
+        "$oid": "604a2cd4163e2900118e5d8f"
+      },
+      "titre": "Pharmacie : Manuela GUILLAUME",
+      "mail": "@",
+      "tel": "03 24 30 00 24",
+      "adresse": "6 Place du général Chanzy - 08240 Buzancy",
+      "texte": "Horaires : Lundi - Mardi - Jeudi et Vendredi 9h / 12h30 - 14h / 19h, Mercredi 9h / 12h30 - 17h - 19h, Samedi 9h 12h30 - 14h / 16h30",
+      "site": "https://www.pagesjaunes.fr/pros/03029855",
+      "image": {
+        "$oid": "6047b1a1163e2900118e5d29"
+      },
+      "createdAt": {
+        "$date": "2021-03-11T14:44:36.421Z"
+      },
+      "updatedAt": {
+        "$date": "2021-06-15T07:08:56.798Z"
+      }
+    },
+    {
+      "actif": true,
+      "_id": {
+        "$oid": "604a2d8d163e2900118e5d90"
+      },
+      "titre": "Proxi – Le P’tit Marché De Proxi",
+      "mail": "@",
+      "tel": "03 24 30 92 69",
+      "adresse": "2 rue de la Gare - 08240 Buzancy",
+      "texte": "Ouvert tous les jours de 7h30 à 19h Dépôt de pain",
+      "site": "https://www.facebook.com/proxibuzancy/",
+      "image": {
+        "$oid": "6047b5e0163e2900118e5d30"
+      },
+      "createdAt": {
+        "$date": "2021-03-11T14:47:41.872Z"
+      },
+      "updatedAt": {
+        "$date": "2021-06-15T07:09:19.152Z"
+      }
+    },
+    {
+      "actif": true,
+      "_id": {
+        "$oid": "604a3164163e2900118e5d95"
+      },
+      "titre": "Infirmières à domicile",
+      "mail": "@",
+      "tel": "03 24 71 26 10",
+      "adresse": "20 rue Chanzy - 08240 Buzancy",
+      "texte": "Nathalie GROFF ou Chloe LAURENT passent à domicile",
+      "site": "https://www.pagesjaunes.fr/pros/55132047",
+      "image": {
+        "$oid": "604a3051163e2900118e5d93"
+      },
+      "createdAt": {
+        "$date": "2021-03-11T15:04:04.676Z"
+      },
+      "updatedAt": {
+        "$date": "2021-06-15T07:09:39.331Z"
+      }
+    },
+    {
+      "actif": true,
+      "_id": {
+        "$oid": "604a3294163e2900118e5d96"
+      },
+      "titre": "Garage de la Bar",
+      "mail": "@",
+      "tel": "03 24 30 20 84",
+      "adresse": "15 Rue de la Gare -  08240 Bar Les Buzancy",
+      "texte": "Garage, station service TOTAL, taxis",
+      "site": "https://reseau.top-garage.fr/7418-garage-de-la-bar",
+      "image": {
+        "$oid": "604a2e79163e2900118e5d92"
+      },
+      "createdAt": {
+        "$date": "2021-03-11T15:09:08.087Z"
+      },
+      "updatedAt": {
+        "$date": "2021-06-15T07:10:00.344Z"
+      }
+    },
+    {
+      "actif": true,
+      "_id": {
+        "$oid": "604a3375163e2900118e5d97"
+      },
+      "titre": "Banque CRCA",
+      "mail": "@",
+      "tel": "03 24 30 00 41",
+      "adresse": "1 Rue de la petite Barre - 08240 Buzancy",
+      "texte": "Distributeur à l'intérieur. Horaires : Mardi à Vendredi 14h / 18h Samedi 9h / 12h30",
+      "site": " https://www.credit-agricole.fr/ca-nord-est/professionnel.html",
+      "image": {
+        "$oid": "604a30e0163e2900118e5d94"
+      },
+      "createdAt": {
+        "$date": "2021-03-11T15:12:53.600Z"
+      },
+      "updatedAt": {
+        "$date": "2021-06-15T07:08:33.573Z"
+      }
+    },
+    {
+      "actif": true,
+      "_id": {
+        "$oid": "60c752e42b5f310015b631ad"
+      },
+      "titre": "Ardennes Roues Libres : location de vélos",
+      "mail": "jf.lequeux@hotmail.fr",
+      "tel": "07 71 60 09 94",
+      "adresse": "2 rue des Jardins 08310 Cauroy",
+      "texte": "Les vélos sont mis à disposition au camping de la Samaritaine à Buzancy",
+      "site": "http://www.ardennesroueslibres.com/",
+      "image": {
+        "$oid": "60c754822b5f310015b631ae"
+      },
+      "createdAt": {
+        "$date": "2021-06-14T13:00:20.310Z"
+      },
+      "updatedAt": {
+        "$date": "2021-06-14T13:09:19.404Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-02-05T21:42:34.324Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-15T10:44:45.951Z"
+  },
+  "__v": 7
+},{
+  "_id": {
+    "$oid": "601dbbd84cf21f59bcab1199"
+  },
+  "actif": true,
+  "nom": "Festi'Buz",
+  "slug": "festi'buz",
+  "presPartenaire": "Festival de musique à Buzancy",
+  "listePartenairesCards": [
+    {
+      "actif": true,
+      "_id": {
+        "$oid": "604b7046ed2b1d0bf80e6198"
+      },
+      "titre": "Festi'buz",
+      "mail": "festibuz@gmail.com",
+      "tel": "06 23 81 91 49",
+      "adresse": "1 route de nouart",
+      "texte": "Festival de musique à Buzancy, prochaine édition en 2022",
+      "site": "www.festibuz.com",
+      "image": {
+        "$oid": "6047b529163e2900118e5d2e"
+      },
+      "createdAt": {
+        "$date": "2021-03-12T13:44:38.422Z"
+      },
+      "updatedAt": {
+        "$date": "2021-06-12T09:57:51.553Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-02-05T21:42:48.942Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-12T09:57:51.554Z"
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "60213dfeb117ae3fc8feab5f"
+  },
+  "actif": true,
+  "nom": "Restauration",
+  "slug": "restauration",
+  "presPartenaire": "Adresses restaurants, traiteurs, friterie à proximité",
+  "listePartenairesCards": [
+    {
+      "actif": true,
+      "_id": {
+        "$oid": "6047d19b79fbfc4ec0a2737d"
+      },
+      "titre": "Hotel du saumon",
+      "mail": "mail@mail.com",
+      "tel": "06 50 50 50 50",
+      "adresse": "buzancy",
+      "texte": "rrrrrrrrrrrrrrrrrrrrrrrr",
+      "site": "http://www.hotel-buzancy.fr/",
+      "image": {
+        "$oid": "6047b14c163e2900118e5d28"
+      },
+      "createdAt": {
+        "$date": "2021-03-09T19:50:51.326Z"
+      },
+      "updatedAt": {
+        "$date": "2021-03-09T19:50:51.326Z"
+      }
+    },
+    {
+      "actif": true,
+      "_id": {
+        "$oid": "6048f117163e2900118e5d7e"
+      },
+      "titre": "La Paillotte restaurant traiteur",
+      "mail": " natetflo.lapaillotte@laposte.net",
+      "tel": "03 24 30 92 79",
+      "adresse": "19 rue de la Gare 08240 Bat les Buzancy",
+      "texte": "Horaires d'ouverture",
+      "site": "https://www.facebook.com/La-paillotte-2027952794152551/",
+      "image": {
+        "$oid": "6047b206163e2900118e5d2a"
+      },
+      "createdAt": {
+        "$date": "2021-03-10T16:17:27.265Z"
+      },
+      "updatedAt": {
+        "$date": "2021-06-07T13:41:27.423Z"
+      }
+    },
+    {
+      "actif": true,
+      "_id": {
+        "$oid": "604a2001163e2900118e5d85"
+      },
+      "titre": "Traiteur  Genty",
+      "mail": "gentyjeancharles@orange.fr",
+      "tel": "03 24 30 41 41",
+      "adresse": "14 rue principale, 08250 Chevières",
+      "texte": "L'entreprise artisanale de Jean-Charles Genty vous propose ses services en tant que traiteur pour réaliser une cuisine classique et raffinée pour tous vos évènements, en vous proposant des buffets froids, des plats mais aussi des farandoles de desserts. Je confectionne une cuisine traditionnelle pour le plaisir de votre palais ! ",
+      "site": "https://www.traiteur-genty-chevieres.fr/",
+      "image": {
+        "$oid": "6047b4e2163e2900118e5d2d"
+      },
+      "createdAt": {
+        "$date": "2021-03-11T13:49:53.875Z"
+      },
+      "updatedAt": {
+        "$date": "2021-03-11T13:49:53.875Z"
+      }
+    },
+    {
+      "actif": true,
+      "_id": {
+        "$oid": "604a20a8163e2900118e5d86"
+      },
+      "titre": "Gilbin traiteur",
+      "mail": "contact@sursonsite",
+      "tel": "03 29 88 07 73",
+      "adresse": "4 Avenue du 18E BCP 55700 Stenay",
+      "texte": "Tickets restaurant",
+      "site": "https://www.gilbintraiteur.fr/",
+      "image": {
+        "$oid": "604a22f5163e2900118e5d88"
+      },
+      "createdAt": {
+        "$date": "2021-03-11T13:52:40.063Z"
+      },
+      "updatedAt": {
+        "$date": "2021-04-05T11:24:31.488Z"
+      }
+    },
+    {
+      "actif": true,
+      "_id": {
+        "$oid": "609cf4ddcd0b470015ddfec7"
+      },
+      "titre": "Flower camping la samaritaine",
+      "mail": "contact@camping-lasamaritaine.fr",
+      "tel": "03 24 30 08 88",
+      "adresse": "3 allée des étangs 08240 Buzancy",
+      "texte": "Basse saison : friterie vendredi, samedi et dimanche    Haute saison  : friterie tous les jours sauf le mardi",
+      "site": "http://www.camping-lasamaritaine.fr/",
+      "image": {
+        "$oid": "609cf3f4cd0b470015ddfec6"
+      },
+      "createdAt": {
+        "$date": "2021-05-13T09:43:57.127Z"
+      },
+      "updatedAt": {
+        "$date": "2021-05-13T09:43:57.127Z"
+      }
+    },
+    {
+      "actif": true,
+      "_id": {
+        "$oid": "60c487438fee2c0015abad2f"
+      },
+      "titre": "Le fumet des Ardennes",
+      "mail": "fumetdesardennes@edpnet.be",
+      "tel": "0032 61 46 66 14 ",
+      "adresse": "Rue Paul Verlaine, 24  BE-6838 Corbion (Bouillon) en Belgique",
+      "texte": "Réservation sur commande uniquement",
+      "site": "https://wallux.com/le-fumet-des-ardennes-bouillon",
+      "image": {
+        "$oid": "60c486a28fee2c0015abad2e"
+      },
+      "createdAt": {
+        "$date": "2021-06-12T10:06:59.317Z"
+      },
+      "updatedAt": {
+        "$date": "2021-06-12T10:06:59.317Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-02-08T13:34:54.729Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-12T10:06:59.318Z"
+  },
+  "__v": 35
+},{
+  "_id": {
+    "$oid": "604656b4c5d5820011daca4a"
+  },
+  "actif": true,
+  "nom": "Terroir",
+  "slug": "terroir",
+  "presPartenaire": "A proximité de nos gîtes, ce que vous pouvez déguster",
+  "listePartenairesCards": [
+    {
+      "actif": true,
+      "_id": {
+        "$oid": "6048f2f1163e2900118e5d7f"
+      },
+      "titre": "Lapierre ",
+      "mail": "contact@gites-wao.fr",
+      "tel": "03 24 30 08 95",
+      "adresse": "1 Route de Nouart 08240 Fossé",
+      "texte": "Jus de pommes bio : 3 € la bouteille ou 15 € les 6 selon disponibilités",
+      "site": "https://www.gites-wao.fr/",
+      "image": {
+        "$oid": "6047b626163e2900118e5d31"
+      },
+      "createdAt": {
+        "$date": "2021-03-10T16:25:21.477Z"
+      },
+      "updatedAt": {
+        "$date": "2021-03-10T16:25:21.477Z"
+      }
+    },
+    {
+      "actif": true,
+      "_id": {
+        "$oid": "6048f37d163e2900118e5d80"
+      },
+      "titre": "Apiculteur : François BOURGAIN  ",
+      "mail": "contact@gites-wao.fr",
+      "tel": "0609213126  0324302202",
+      "adresse": "1 Rue de l'église - 08240 Buzancy",
+      "texte": "Téléphoner pour prendre rendez-vous",
+      "site": "https://www.gites-wao.fr/",
+      "image": {
+        "$oid": "6047bb4b163e2900118e5d34"
+      },
+      "createdAt": {
+        "$date": "2021-03-10T16:27:41.976Z"
+      },
+      "updatedAt": {
+        "$date": "2021-03-10T16:27:41.976Z"
+      }
+    },
+    {
+      "actif": true,
+      "_id": {
+        "$oid": "6048f431163e2900118e5d81"
+      },
+      "titre": "La Harnoterie",
+      "mail": "earldelaharnoterie@orange.fr",
+      "tel": "06 76 29 84 18",
+      "adresse": "08210 Beaumont en Argonne",
+      "texte": "Visite et goûter (ou repas) à la ferme, commande de panier fermier",
+      "site": "https://www.ferme-la-harnoterie.com/",
+      "image": {
+        "$oid": "6047b679163e2900118e5d32"
+      },
+      "createdAt": {
+        "$date": "2021-03-10T16:30:41.240Z"
+      },
+      "updatedAt": {
+        "$date": "2021-03-10T16:30:41.240Z"
+      }
+    },
+    {
+      "actif": true,
+      "_id": {
+        "$oid": "6048f542163e2900118e5d82"
+      },
+      "titre": "EARL Bertrand Geoffroy",
+      "mail": "test@mail.fr",
+      "tel": "06 10 12 31 03",
+      "adresse": "2 chemin de Masmes 08240 Buzancy",
+      "texte": "Poulailler à l'entrée du village de Fossé",
+      "site": "https://www.gites-wao.fr/presentation-partenaires-terroir/",
+      "image": {
+        "$oid": "6047b278163e2900118e5d2b"
+      },
+      "createdAt": {
+        "$date": "2021-03-10T16:35:14.495Z"
+      },
+      "updatedAt": {
+        "$date": "2021-03-10T16:35:14.495Z"
+      }
+    },
+    {
+      "actif": true,
+      "_id": {
+        "$oid": "6048f87a163e2900118e5d84"
+      },
+      "titre": "Juliette and cows",
+      "mail": "hussonjuliette@yahoo.fr",
+      "tel": "03 24 30 07 92",
+      "adresse": "Place du château 08240 Nouart",
+      "texte": "La crème dessert au chocolat a reçu la médaille d'argent au concours Général Agricole 2020",
+      "site": " http://hussonjuliette.wix.com/julietteandcows",
+      "image": {
+        "$oid": "6048f713163e2900118e5d83"
+      },
+      "createdAt": {
+        "$date": "2021-03-10T16:48:58.611Z"
+      },
+      "updatedAt": {
+        "$date": "2021-03-10T16:48:58.611Z"
+      }
+    },
+    {
+      "actif": true,
+      "_id": {
+        "$oid": "604a26e6163e2900118e5d89"
+      },
+      "titre": "Pâtés croute et tourtes de Jean Pierre Henriet",
+      "mail": "contact@gites-wao.fr",
+      "tel": "03 24 71 18 29",
+      "adresse": "19 rue de l'Europe - 08240 Landres et St Georges",
+      "texte": "Présent sur les marchés à Stenay le vendredi et Vouziers le samedi, vous trouverez aussi ces spécialités au proxi à Buzancy",
+      "site": "https://www.youtube.com/watch?v=FV-0v4dZYqo&ab_channel=France3GrandEst",
+      "image": {
+        "$oid": "60b797e8bbd5b20015d098b4"
+      },
+      "createdAt": {
+        "$date": "2021-03-11T14:19:18.785Z"
+      },
+      "updatedAt": {
+        "$date": "2021-06-07T11:12:01.708Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-03-08T16:54:12.777Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-07T11:12:01.709Z"
+  },
+  "__v": 6
+},{
+  "_id": {
+    "$oid": "604656e9c5d5820011daca4b"
+  },
+  "actif": true,
+  "nom": "Labels",
+  "slug": "labels",
+  "presPartenaire": "lien vers ",
+  "listePartenairesCards": [
+    {
+      "actif": true,
+      "_id": {
+        "$oid": "604a2b63163e2900118e5d8c"
+      },
+      "titre": "ANCV",
+      "mail": "contact@gites-wao.fr",
+      "tel": "03 24 30 08 95",
+      "adresse": "Renseignements sur le site",
+      "texte": "Nous acceptons les chèques vacances",
+      "site": "https://www.ancv.com/",
+      "image": {
+        "$oid": "604a2aac163e2900118e5d8a"
+      },
+      "createdAt": {
+        "$date": "2021-03-11T14:38:27.805Z"
+      },
+      "updatedAt": {
+        "$date": "2021-03-11T14:38:27.805Z"
+      }
+    },
+    {
+      "actif": true,
+      "_id": {
+        "$oid": "604a2bac163e2900118e5d8d"
+      },
+      "titre": "ANCV connect",
+      "mail": "contact@gites-wao.fr",
+      "tel": "03 24 30 08 95",
+      "adresse": "Renseignements sur le site",
+      "texte": "Nous acceptons les chèques vacances connect, nous prévenir si vous régler avec ce moyen de paiement",
+      "site": "https://www.ancv.com/",
+      "image": {
+        "$oid": "604a2ad7163e2900118e5d8b"
+      },
+      "createdAt": {
+        "$date": "2021-03-11T14:39:40.352Z"
+      },
+      "updatedAt": {
+        "$date": "2021-03-11T14:39:40.352Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-03-08T16:55:05.761Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-15T09:31:01.605Z"
+  },
+  "__v": 12
+}]

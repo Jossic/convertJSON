@@ -1,0 +1,966 @@
+[{
+  "_id": {
+    "$oid": "604cc6a39697696230b2ab90"
+  },
+  "nom": "Mise en forme des pages du site partie visible par le client",
+  "date": {
+    "$date": "2021-03-13T14:05:23.748Z"
+  },
+  "type": "unrelease",
+  "createdAt": {
+    "$date": "2021-03-13T14:05:23.759Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0,
+  "vu": true
+},{
+  "_id": {
+    "$oid": "604cc6c79697696230b2ab91"
+  },
+  "nom": "Update reservation controller et gérer les remises",
+  "date": {
+    "$date": "2021-03-13T14:05:59.178Z"
+  },
+  "type": "unrelease",
+  "createdAt": {
+    "$date": "2021-03-13T14:05:59.181Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0,
+  "vu": true
+},{
+  "_id": {
+    "$oid": "604cc6edfc840c26fc7cda51"
+  },
+  "nom": "Permettre d'ajouter un tri sur les photos (par page et par section)\n",
+  "date": {
+    "$date": "2021-03-13T14:06:37.322Z"
+  },
+  "type": "unrelease",
+  "createdAt": {
+    "$date": "2021-03-13T14:06:37.334Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0,
+  "vu": true
+},{
+  "_id": {
+    "$oid": "604cc6fafc840c26fc7cda52"
+  },
+  "nom": "Génération d'un contrat : Télécharger le contrat en pdf -> Prévisualisation dans modal et confirmation envoi au client (exemple mail reçu transféré avec insertion du contrat). Ajouter référence du contrat pour virement Ajouter dans le corps du mail le lien pour générer le paiement\n",
+  "date": {
+    "$date": "2021-03-13T14:06:50.210Z"
+  },
+  "type": "unrelease",
+  "createdAt": {
+    "$date": "2021-03-13T14:06:50.214Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0,
+  "vu": true
+},{
+  "_id": {
+    "$oid": "604cc703fc840c26fc7cda53"
+  },
+  "nom": "Génération une facture : Télécharger la facture en xls\n",
+  "date": {
+    "$date": "2021-03-13T14:06:59.082Z"
+  },
+  "type": "unrelease",
+  "createdAt": {
+    "$date": "2021-03-13T14:06:59.085Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0,
+  "vu": true
+},{
+  "_id": {
+    "$oid": "604cc785fc840c26fc7cda54"
+  },
+  "nom": "gestion des fichiers",
+  "date": {
+    "$date": "2021-03-13T14:09:09.806Z"
+  },
+  "type": "unrelease",
+  "createdAt": {
+    "$date": "2021-03-13T14:09:09.808Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0,
+  "vu": true
+},{
+  "_id": {
+    "$oid": "604cc790fc840c26fc7cda55"
+  },
+  "nom": "Intégration Tidio",
+  "date": {
+    "$date": "2021-03-13T14:09:20.288Z"
+  },
+  "type": "unrelease",
+  "createdAt": {
+    "$date": "2021-03-13T14:09:20.290Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0,
+  "vu": true
+},{
+  "_id": {
+    "$oid": "604cc796fc840c26fc7cda56"
+  },
+  "nom": "Gestion des mails automatiques\n",
+  "date": {
+    "$date": "2021-03-13T14:09:26.435Z"
+  },
+  "type": "unrelease",
+  "createdAt": {
+    "$date": "2021-03-13T14:09:26.437Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0,
+  "vu": true
+},{
+  "_id": {
+    "$oid": "604cc79cfc840c26fc7cda57"
+  },
+  "nom": "Affichage du dashboard",
+  "date": {
+    "$date": "2021-03-13T14:09:32.394Z"
+  },
+  "type": "unrelease",
+  "createdAt": {
+    "$date": "2021-03-13T14:09:32.397Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0,
+  "vu": true
+},{
+  "_id": {
+    "$oid": "604cc7a3fc840c26fc7cda58"
+  },
+  "nom": "(Gestion des réservation / clients)",
+  "date": {
+    "$date": "2021-03-13T14:09:39.668Z"
+  },
+  "type": "unrelease",
+  "createdAt": {
+    "$date": "2021-03-13T14:09:39.671Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0,
+  "vu": true
+},{
+  "_id": {
+    "$oid": "604cc7b6fc840c26fc7cda59"
+  },
+  "nom": "Affichage du menu responsive adapté au téléphone et sticky, affichage de l'espace Admin uniquement pour l'utilisateur connecté et Admin",
+  "date": {
+    "$date": "2021-03-13T14:09:58.185Z"
+  },
+  "type": "newFunc",
+  "createdAt": {
+    "$date": "2021-03-13T14:09:58.187Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0,
+  "vu": true
+},{
+  "_id": {
+    "$oid": "604cc7bffc840c26fc7cda5a"
+  },
+  "nom": "Affichage du pdf lors du clic pour la génération du contrat et envoi du mail avec le contrat en pièce jointe au client.",
+  "date": {
+    "$date": "2021-03-13T14:10:07.159Z"
+  },
+  "type": "newFunc",
+  "createdAt": {
+    "$date": "2021-03-13T14:10:07.161Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0,
+  "vu": true
+},{
+  "_id": {
+    "$oid": "604cc7dafc840c26fc7cda5b"
+  },
+  "nom": "Dans la partie gîte, ajout d'un 5eme onglet pour ajouter certaines informations personnalisées sur le contrat.",
+  "date": {
+    "$date": "2021-03-13T14:10:34.391Z"
+  },
+  "type": "newFunc",
+  "createdAt": {
+    "$date": "2021-03-13T14:10:34.393Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0,
+  "vu": true
+},{
+  "_id": {
+    "$oid": "604cc920fc840c26fc7cda5c"
+  },
+  "nom": "Partie gestion des utilisateurs, création, modification, suppression.",
+  "date": {
+    "$date": "2021-03-13T14:16:00.650Z"
+  },
+  "type": "newFunc",
+  "createdAt": {
+    "$date": "2021-03-13T14:16:00.652Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0,
+  "vu": true
+},{
+  "_id": {
+    "$oid": "604cc92dfc840c26fc7cda5d"
+  },
+  "nom": "Affichage correct de l'utilisateur connecté en haut à droite de l'admin dashboard.",
+  "date": {
+    "$date": "2021-03-13T14:16:13.465Z"
+  },
+  "type": "newFunc",
+  "createdAt": {
+    "$date": "2021-03-13T14:16:13.467Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0,
+  "vu": true
+},{
+  "_id": {
+    "$oid": "604cc939fc840c26fc7cda5e"
+  },
+  "nom": "Page reserver - Reservation fonctionnelle avec calcul du tarif et mail envoyé directement.",
+  "date": {
+    "$date": "2021-03-13T14:16:25.099Z"
+  },
+  "type": "newFunc",
+  "createdAt": {
+    "$date": "2021-03-13T14:16:25.101Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0,
+  "vu": true
+},{
+  "_id": {
+    "$oid": "604cc942fc840c26fc7cda5f"
+  },
+  "nom": "Page tarif - Simulation fonctionnelle sur la majorité des cas.",
+  "date": {
+    "$date": "2021-03-13T14:16:34.839Z"
+  },
+  "type": "newFunc",
+  "createdAt": {
+    "$date": "2021-03-13T14:16:34.841Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0,
+  "vu": true
+},{
+  "_id": {
+    "$oid": "604cc94efc840c26fc7cda60"
+  },
+  "nom": "Renvoyer les messages du formulaire de contact dans l'espace admin avec pastille nouveau message.",
+  "date": {
+    "$date": "2021-03-13T14:16:46.364Z"
+  },
+  "type": "newFunc",
+  "createdAt": {
+    "$date": "2021-03-13T14:16:46.366Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0,
+  "vu": true
+},{
+  "_id": {
+    "$oid": "604cc95cfc840c26fc7cda61"
+  },
+  "nom": "Modification menu admin",
+  "date": {
+    "$date": "2021-03-13T14:17:00.282Z"
+  },
+  "type": "updated",
+  "createdAt": {
+    "$date": "2021-03-13T14:17:00.283Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0,
+  "vu": true
+},{
+  "_id": {
+    "$oid": "604cc966fc840c26fc7cda62"
+  },
+  "nom": "Affichage de toutes les images. A confirmer si ok.",
+  "date": {
+    "$date": "2021-03-13T14:17:10.900Z"
+  },
+  "type": "updated",
+  "createdAt": {
+    "$date": "2021-03-13T14:17:10.902Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0,
+  "vu": true
+},{
+  "_id": {
+    "$oid": "604cc973fc840c26fc7cda63"
+  },
+  "nom": "Correction erreur enregistrement liste des équipements.",
+  "date": {
+    "$date": "2021-03-13T14:17:23.201Z"
+  },
+  "type": "updated",
+  "createdAt": {
+    "$date": "2021-03-13T14:17:23.203Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0,
+  "vu": true
+},{
+  "_id": {
+    "$oid": "604cc980fc840c26fc7cda64"
+  },
+  "nom": "Affichage du calendrier et vidéo sur les pages gites à 95% de la largeur.",
+  "date": {
+    "$date": "2021-03-13T14:17:36.192Z"
+  },
+  "type": "updated",
+  "createdAt": {
+    "$date": "2021-03-13T14:17:36.193Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0,
+  "vu": true
+},{
+  "_id": {
+    "$oid": "604cc9a3fc840c26fc7cda65"
+  },
+  "nom": "Modification complète de la partie de la gestion des partenaires, des unreleased, des FAQ et des alentours.",
+  "date": {
+    "$date": "2021-03-13T14:18:11.996Z"
+  },
+  "type": "updated",
+  "createdAt": {
+    "$date": "2021-03-13T14:18:11.998Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0,
+  "vu": true
+},{
+  "_id": {
+    "$oid": "604cc9b1fc840c26fc7cda66"
+  },
+  "nom": "Modification complète de la partie de la gestion des images, possibilité de trier, rechercher, filtrer, ajouter, supprimer, modifier. affichage correct.",
+  "date": {
+    "$date": "2021-03-13T14:18:25.035Z"
+  },
+  "type": "updated",
+  "createdAt": {
+    "$date": "2021-03-13T14:18:25.037Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0,
+  "vu": true
+},{
+  "_id": {
+    "$oid": "604cc9c8fc840c26fc7cda67"
+  },
+  "nom": "Correction de l'affichage du footer en bas de page.",
+  "date": {
+    "$date": "2021-03-13T14:18:48.553Z"
+  },
+  "type": "updated",
+  "createdAt": {
+    "$date": "2021-03-13T14:18:48.555Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0,
+  "vu": true
+},{
+  "_id": {
+    "$oid": "604cc9d5fc840c26fc7cda68"
+  },
+  "nom": "Mise à jour de la page des gîtes, affichage de toutes les informations.",
+  "date": {
+    "$date": "2021-03-13T14:19:01.972Z"
+  },
+  "type": "updated",
+  "createdAt": {
+    "$date": "2021-03-13T14:19:01.974Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0,
+  "vu": true
+},{
+  "_id": {
+    "$oid": "604cc9e1fc840c26fc7cda69"
+  },
+  "nom": "Contrôles sur la soumission du formulaire de réservation ajouté avec récapitulatif final à mettre en forme.",
+  "date": {
+    "$date": "2021-03-13T14:19:13.694Z"
+  },
+  "type": "updated",
+  "createdAt": {
+    "$date": "2021-03-13T14:19:13.696Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0,
+  "vu": true
+},{
+  "_id": {
+    "$oid": "604cc9f3fc840c26fc7cda6a"
+  },
+  "nom": "Affichage du listing des équipements corrigé.",
+  "date": {
+    "$date": "2021-03-13T14:19:31.994Z"
+  },
+  "type": "updated",
+  "createdAt": {
+    "$date": "2021-03-13T14:19:31.996Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0,
+  "vu": true
+},{
+  "_id": {
+    "$oid": "604cca09fc840c26fc7cda6b"
+  },
+  "nom": "Gestion des réservations - Tri sur date de réservation et sur status.",
+  "date": {
+    "$date": "2021-03-13T14:19:53.484Z"
+  },
+  "type": "updated",
+  "createdAt": {
+    "$date": "2021-03-13T14:19:53.486Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0,
+  "vu": true
+},{
+  "_id": {
+    "$oid": "604cca17fc840c26fc7cda6c"
+  },
+  "nom": "Gestion des réservations - Corriger le tri sur client et sur gîte.",
+  "date": {
+    "$date": "2021-03-13T14:20:07.796Z"
+  },
+  "type": "toFixe",
+  "createdAt": {
+    "$date": "2021-03-13T14:20:07.799Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0,
+  "vu": true
+},{
+  "_id": {
+    "$oid": "604cca22fc840c26fc7cda6d"
+  },
+  "nom": "Réservations - Afficher le tarif avec le récap avant de valider la réservation.",
+  "date": {
+    "$date": "2021-03-13T14:20:18.326Z"
+  },
+  "type": "toFixe",
+  "createdAt": {
+    "$date": "2021-03-13T14:20:18.328Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0,
+  "vu": true
+},{
+  "_id": {
+    "$oid": "604cca2dfc840c26fc7cda6e"
+  },
+  "nom": "Gestion des mailers - récupéré les variables pour les gérer dynamiquement.",
+  "date": {
+    "$date": "2021-03-13T14:20:29.210Z"
+  },
+  "type": "toFixe",
+  "createdAt": {
+    "$date": "2021-03-13T14:20:29.212Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0,
+  "vu": true
+},{
+  "_id": {
+    "$oid": "604d221b86a9ce3da8b97c2e"
+  },
+  "vu": true,
+  "nom": "Possibilité d'ajouter des logs dans la partie changelog afin de proposer des suggestion ainsi que les badges indiquant s'il y a des nouveautés ou non.\nCliquer sur \"Tout marquer comme lu\" si vu.",
+  "date": {
+    "$date": "2021-03-13T20:35:39.407Z"
+  },
+  "type": "newFunc",
+  "createdAt": {
+    "$date": "2021-03-13T20:35:39.416Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6051cba7eef9414accd10f8e"
+  },
+  "vu": true,
+  "nom": "Page d'accueil - Partie haute idem site actuel - \nPartie basse, supprimer carte et commentaires - ajouter à la place calendrier avec dispos des gîtes",
+  "date": {
+    "$date": "2021-03-17T09:28:07.424Z"
+  },
+  "type": "unrelease",
+  "createdAt": {
+    "$date": "2021-03-17T09:28:07.432Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6054ced4bd0859001131b6b6"
+  },
+  "vu": true,
+  "nom": "Partie FAQ mettre une ou plusieurs photos pour agrémenter un peu le texte, voir site actuel",
+  "date": {
+    "$date": "2021-03-19T16:18:28.920Z"
+  },
+  "type": "toFixe",
+  "createdAt": {
+    "$date": "2021-03-19T16:18:28.924Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60599be1bd0859001131b6be"
+  },
+  "vu": true,
+  "nom": "lorsqu'un contrat est annulé avoir une liste déroulante des motifs (demande annulation, pas de réponse, confinement) ",
+  "date": {
+    "$date": "2021-03-23T07:42:25.627Z"
+  },
+  "type": "unrelease",
+  "createdAt": {
+    "$date": "2021-03-23T07:42:25.631Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60599c81bd0859001131b6bf"
+  },
+  "vu": true,
+  "nom": "en cas de report de contrat suite à confinement ajouter une ligne sur le contrat acompte déjà versé",
+  "date": {
+    "$date": "2021-03-23T07:45:05.124Z"
+  },
+  "type": "unrelease",
+  "createdAt": {
+    "$date": "2021-03-23T07:45:05.125Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60599de3bd0859001131b6c0"
+  },
+  "vu": true,
+  "nom": "dans la partie réservation afficher le montant de l'acompte calculé, mais avec possibilité de le modifier",
+  "date": {
+    "$date": "2021-03-23T07:50:59.233Z"
+  },
+  "type": "unrelease",
+  "createdAt": {
+    "$date": "2021-03-23T07:50:59.234Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605c53b09e8b97311074019e"
+  },
+  "vu": true,
+  "nom": "Correction du bug du listing des équipements",
+  "date": {
+    "$date": "2021-03-25T09:11:12.608Z"
+  },
+  "type": "updated",
+  "createdAt": {
+    "$date": "2021-03-25T09:11:12.620Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605c591d05786508848115f4"
+  },
+  "vu": true,
+  "nom": "Ajout de la taxe de séjour",
+  "date": {
+    "$date": "2021-03-25T09:34:21.826Z"
+  },
+  "type": "updated",
+  "createdAt": {
+    "$date": "2021-03-25T09:34:21.831Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605c633e12e42c323080846b"
+  },
+  "vu": true,
+  "nom": "Ajout de la section contrat dans le listing des images - Listing des images affichée dans la partie contrat de chaque gîte. Penser à sélectionner l'image concernée.",
+  "date": {
+    "$date": "2021-03-25T10:17:34.568Z"
+  },
+  "type": "newFunc",
+  "createdAt": {
+    "$date": "2021-03-25T10:17:34.579Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605d8ca735afec001149b401"
+  },
+  "vu": true,
+  "nom": "En ce qui concerne la simulation de tarif et la réservation, jonas veut juste un total à payer  et la taxe diverse, on ne distingue rien d'autres, par contre au niveau de l'admin j'aimerais avoir un module qui calcule la même chose et ou tout est distingué et qui pourra servir pour la facturation",
+  "date": {
+    "$date": "2021-03-26T07:26:31.882Z"
+  },
+  "type": "unrelease",
+  "createdAt": {
+    "$date": "2021-03-26T07:26:31.888Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6060593535afec001149b403"
+  },
+  "vu": true,
+  "nom": "Gestion du planning des femmes de ménage",
+  "date": {
+    "$date": "2021-03-28T10:23:49.673Z"
+  },
+  "type": "unrelease",
+  "createdAt": {
+    "$date": "2021-03-28T10:23:49.674Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-10T20:08:32.407Z"
+  },
+  "__v": 0,
+  "postedBy": "Martine Lapierre"
+},{
+  "_id": {
+    "$oid": "6063798cd3fa1725ccc7929c"
+  },
+  "vu": true,
+  "nom": "Modification lors de la validation du formulaire de réservation, correction, il est maintenant possible de soumettre à nouveau le formulaire",
+  "date": {
+    "$date": "2021-03-30T19:18:36.331Z"
+  },
+  "type": "updated",
+  "createdAt": {
+    "$date": "2021-03-30T19:18:36.336Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:56:14.840Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606af64d6cee8804ecb33d56"
+  },
+  "vu": true,
+  "nom": "Correction de l'affichage des images en temps réel sur la partie vitrine, les modifications des images dans la partie ADMIN seront prise en compte aussitôt.",
+  "date": {
+    "$date": "2021-04-05T11:36:45.439Z"
+  },
+  "type": "updated",
+  "createdAt": {
+    "$date": "2021-04-05T11:36:45.443Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-04T07:49:33.719Z"
+  },
+  "__v": 0,
+  "postedBy": "Jossic Lapierre"
+},{
+  "_id": {
+    "$oid": "606afb4f8c89b25b247c1c0d"
+  },
+  "vu": true,
+  "nom": "Correction formulaire de modification des images - ajout des champs manquants",
+  "date": {
+    "$date": "2021-04-05T11:58:07.414Z"
+  },
+  "type": "updated",
+  "postedBy": "Jossic Lapierre",
+  "createdAt": {
+    "$date": "2021-04-05T11:58:07.417Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-04T07:49:33.719Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606afbb38c89b25b247c1c0e"
+  },
+  "vu": true,
+  "nom": "Correction Accueil/Signature lors de la modification des images",
+  "date": {
+    "$date": "2021-04-05T11:59:47.389Z"
+  },
+  "type": "updated",
+  "postedBy": "Jossic Lapierre",
+  "createdAt": {
+    "$date": "2021-04-05T11:59:47.391Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-04T07:49:33.719Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606ccb4f65f200085878bd01"
+  },
+  "vu": true,
+  "nom": "Mise en forme page alentours",
+  "date": {
+    "$date": "2021-04-06T20:57:51.489Z"
+  },
+  "type": "newFunc",
+  "postedBy": "Jossic Lapierre",
+  "createdAt": {
+    "$date": "2021-04-06T20:57:51.494Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-04T07:49:33.719Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606ea273385951001144ec73"
+  },
+  "vu": true,
+  "nom": "pour le calcul de 1 nuitée faire le calcul mais mettre un mot de passe pour accéder au résultat",
+  "date": {
+    "$date": "2021-04-08T06:28:03.485Z"
+  },
+  "type": "unrelease",
+  "postedBy": "Martine Lapierre",
+  "createdAt": {
+    "$date": "2021-04-08T06:28:03.490Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-10T20:08:32.407Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6070465320d5846340abf147"
+  },
+  "vu": true,
+  "nom": "Ajout section Ficher dans menu gestion des gîtes. Permet d'ajouter des fichiers PDF.",
+  "date": {
+    "$date": "2021-04-09T12:19:31.401Z"
+  },
+  "type": "newFunc",
+  "postedBy": "Jossic Lapierre",
+  "createdAt": {
+    "$date": "2021-04-09T12:19:31.413Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-04T07:49:33.719Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6070b201641df04c888c24b3"
+  },
+  "vu": true,
+  "nom": "Design page FAQ et alentours fait, à contrôler",
+  "date": {
+    "$date": "2021-04-09T19:58:57.163Z"
+  },
+  "type": "newFunc",
+  "postedBy": "Jossic Lapierre",
+  "createdAt": {
+    "$date": "2021-04-09T19:58:57.175Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-04T07:49:33.719Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60720661ad741e289403336a"
+  },
+  "vu": true,
+  "nom": "Le nombre de logs affichés en nouveauté en bas dans changelog sont maintenant uniquement ceux qui te concernent, et lorsque tu fais marquer comme lu, cela supprime uniquement ceux que moi j'ai ajouté",
+  "date": {
+    "$date": "2021-04-10T20:11:13Z"
+  },
+  "type": "newFunc",
+  "postedBy": "Jossic Lapierre",
+  "createdAt": {
+    "$date": "2021-04-10T20:11:13.009Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-04T07:49:33.719Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607361572324754b74f6947b"
+  },
+  "vu": true,
+  "nom": "Modification de la page contact pour intégrer ton design, ajout d'un contrôle sur le formulaire",
+  "date": {
+    "$date": "2021-04-11T20:51:35.284Z"
+  },
+  "type": "updated",
+  "postedBy": "Jossic Lapierre",
+  "createdAt": {
+    "$date": "2021-04-11T20:51:35.292Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-04T07:49:33.719Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60802c51d85eeb2ea0550a14"
+  },
+  "vu": true,
+  "nom": "Modifications page réservation- Mise en forme",
+  "date": {
+    "$date": "2021-04-21T13:44:49.056Z"
+  },
+  "type": "updated",
+  "postedBy": "Jossic Lapierre",
+  "createdAt": {
+    "$date": "2021-04-21T13:44:49.060Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-04T07:49:33.719Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608fef32f32ccd5968a080e1"
+  },
+  "vu": true,
+  "nom": "Modifications du rendu de la page du listing des réservations.",
+  "date": {
+    "$date": "2021-05-03T12:40:18.773Z"
+  },
+  "type": "updated",
+  "postedBy": "Jossic Lapierre",
+  "createdAt": {
+    "$date": "2021-05-03T12:40:18.789Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-04T07:49:33.719Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608fef58f32ccd5968a080e2"
+  },
+  "vu": true,
+  "nom": "Ajout d'une fiche client intégré au listing des réservation au clic sur l'icône du client.",
+  "date": {
+    "$date": "2021-05-03T12:40:56.791Z"
+  },
+  "type": "newFunc",
+  "postedBy": "Jossic Lapierre",
+  "createdAt": {
+    "$date": "2021-05-03T12:40:56.794Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-04T07:49:33.719Z"
+  },
+  "__v": 0
+}]

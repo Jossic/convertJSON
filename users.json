@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "60019ab2ae4986523c58ab0f"
+  },
+  "isAdmin": true,
+  "name": "Jossic Lapierre",
+  "email": "jossic.lapierre@gmail.com",
+  "password": "$2a$10$dpy5HSwAGjRyyxwWtOy7jOj3LZP0jeJNltCLXm.F0Y0pXSbM5UERa",
+  "createdAt": {
+    "$date": "2021-01-15T13:37:54.050Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-15T13:37:54.050Z"
+  },
+  "__v": 0,
+  "avatar": "https://gites-wao.s3.eu-west-3.amazonaws.com/ttS-l5mdD-Avatar+Pingouin"
+},{
+  "_id": {
+    "$oid": "602fb9b9334cdc0de874f549"
+  },
+  "avatar": "https://gites-wao.s3.eu-west-3.amazonaws.com/RGTF0eIx--Avatar+Fille",
+  "isAdmin": true,
+  "name": "Martine Lapierre",
+  "email": "contact@gites-wao.fr",
+  "password": "$2a$10$9RdqNJcsHzz57SZB0xCZG.eCEQO9kkf98hxgUPIa/x3ssiKw4fHHW",
+  "createdAt": {
+    "$date": "2021-02-19T13:14:33.733Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-19T13:46:56.662Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602fb9d2334cdc0de874f54a"
+  },
+  "avatar": "https://gites-wao.s3.eu-west-3.amazonaws.com/XtTtYYZ0fy-avatar-neutre-300x254.png",
+  "isAdmin": true,
+  "name": "Jonas Lapierre",
+  "email": "jonas.lapierre@gmail.com",
+  "password": "$2a$10$baN3xFHoFDsL3DQbSeR5Q.BkHae1BCSklJLN/kDpsbz2sD7EnAuBW",
+  "createdAt": {
+    "$date": "2021-02-19T13:14:58.604Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-19T13:14:58.604Z"
+  },
+  "__v": 0
+}]

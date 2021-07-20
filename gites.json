@@ -1,0 +1,410 @@
+[{
+  "_id": {
+    "$oid": "6009db0262254c15a4d4ea3f"
+  },
+  "pdf": [],
+  "nom": "Manola",
+  "mtitle": "Les Gîtes WAO | Manola",
+  "presGiteSEO": "Ce gîte est situé 14 rue de la Vautée à Fossé (08240). C'est un petit village très calme d'une soixante d'habitants.\nNous attirons votre attention sur le fait que pour ce gîte, la piscine est située à 150 m du gîte, elle est accessible 24h sur 24 et est exclusivement réservée aux locataires.",
+  "mdesc": {
+    "log": {
+      "timeTakenInMilliseconds": 0
+    },
+    "result": "Ce gîte est situé 14 rue de la Vautée à Fossé (08240). C'est un petit village très calme d'une soixante d'habitants.\nNous attirons votre attention sur le fait q",
+    "ranges": null,
+    "allTagLocations": [],
+    "filteredTagLocations": []
+  },
+  "slug": "manola",
+  "couleur1": "#ff8000",
+  "videoLink": "<iframe width=\"95%\" height=\"315\" src=\"https://www.youtube.com/embed/N5B7shv3kjE\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+  "texte1": "Ce gîte est situé 14 rue de la Vautée à Fossé (08240).\n\nNous attirons votre attention sur le fait que pour ce gîte, la piscine est située à 150 m du gîte, elle est accessible 24h sur 24 et est exclusivement réservée aux locataires. Il n’y a pas de vis à vis.\n\nIl y a 4 chambres.",
+  "detailGite": "Ce gite est ouvert toute l'année, il est accessible aux personnes à mobilité réduite. Logement avec une grande pièce à vivre pouvant recevoir une quinzaine de personnes. \n\n\n",
+  "reviews": [],
+  "calendrierLink": "<iframe src=\"https://calendar.google.com/calendar/embed?showTitle=0&showPrint=0&showTz=0&height=600&wkst=2&bgcolor=%23FFFFFF&src=pkk6dt9dnpaoovrsc22tbfek2g%40group.calendar.google.com&color=%238C500B&src=fr.french%23holiday%40group.v.calendar.google.com&color=%232952A3&src=g82d68dhkmm7s4ppo53547jkdg%40group.calendar.google.com&color=%23333333&ctz=Europe%2FParis\" style=\"border-width:0\" width=\"95%\" height=\"600\" frameborder=\"0\" scrolling=\"no\"></iframe>",
+  "photos": [],
+  "createdAt": {
+    "$date": "2021-01-21T19:50:26.817Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-21T15:19:04.169Z"
+  },
+  "__v": 20,
+  "couleur2": "#000000",
+  "texte": "Le gîte manola a sa propre piscine privée à 150 m accessible uniquement aux locataires du gîte",
+  "capaciteMax": 16,
+  "calendarId": "pkk6dt9dnpaoovrsc22tbfek2g@group.calendar.google.com",
+  "actif": false,
+  "adresse": "14 rue de la Vautée",
+  "caution": 350,
+  "coefficients": {
+    "basseSaison": 380,
+    "hauteSaison": 180,
+    "moyenneSaison": 160,
+    "noel": 170,
+    "nouvelAn": 200,
+    "quatreNuitees": 430,
+    "troisNuitees": 220,
+    "uneNuitee": 80
+  },
+  "cp": "08240",
+  "nPers": 15,
+  "ville": "Fossé",
+  "equipementExterieur": [
+    "Aire de jeux avec toboggan",
+    " Trampoline",
+    " Table de ping-pong",
+    " Barbecue",
+    " Salon de jardin"
+  ],
+  "equipementInterieur": [
+    "Grande pièce à vivre avec smart TV",
+    " Poêle à bois",
+    " 2 canapés convertibles",
+    " Vaisselle et casseroles suffisantes pour 15 personnes",
+    " Flûtes à champagne et verres ballons",
+    " Oreillers et couette pour chaque lit et canapé",
+    " WI FI gratuit"
+  ],
+  "equipementPiscine": [
+    "Billard",
+    " Baby foot",
+    " Spa",
+    " Cabine infra rouge",
+    " Douche WC"
+  ],
+  "texteExterieur": "Dernière maison à la sortie du village, le terrain est complétement clos par un grillage et une haie de tuyas, il n'y a pas de vis à vis. \nNos amis les animaux peuvent rester dehors en toute tranquillité.",
+  "texteInterieur": "Ce logement comprend salon, salle à manger, coin cuisine, 2 salles de bain dont une aménagée pour personne à mobilité réduite, 2 WC. 4 chambres avec 11 couchages + 2 canapés convertibles + 2 lits bébé. Vous avez le détail des couchages dans le descriptif de chaque photo.",
+  "textePiscine": "La piscine qui est située à 150 m du gîte est dans un local fermé, derrière notre maison d'habitation. Elle est chauffée toute l'année. Les dimensions sont de 12 m par 5,50 m, elle est totalement privée et réservée aux locataires du gîte. Des rideaux préservent l’intimité de chacun. Du coup, il n’y a pas de vis à vis.",
+  "RIB": {
+    "BIC": "AGRIFRPP802",
+    "IBAN": "FR76 1020 6084 0398 3877 2925 093",
+    "TITULAIRE": "SAS WAO"
+  },
+  "ftLit": 5,
+  "ftMenage": 60,
+  "supplementParPers": 5,
+  "tarifDeBase": 685,
+  "tarifParPersParNuit": 25,
+  "ctDescLog": "<p><span style=\"color: red;\">Vous trouverez le détail des couchages en téléchargement sur notre site (gites-wao.fr/onglet du gîte/Description des couchages &amp; plan du gîte).</span></p><p>Les descriptifs de ce contrat tiennent lieu d'inventaire. Tout manquement à cette liste sera à nous signaler rapidement. Le logement est équipé de vaisselle, mobilier intérieur et extérieur, ustensiles de nettoyage. Nous ne fournissons pas le linge de maison, ni les serviettes de toilette.</p><p><u>Exposition</u> : sud <u>Vue :</u> campagne</p><p><u>Agencement de la cuisine : Coin cuisine dans la pièce principale</u>.</p><p>☑ Evier deux bacs ☑ lave vaisselle ☑ Réfrigérateur congélateur ☑ plaques induction ☑ Four ☑ Four micro ondes ☑ 1 cafetière à filtre, ☑ 1 senseo ☑ 1 bouilloire</p><p>☑ 1 Grille pain ☑ 1 Autocuiseur ☑ 2 Services à raclette 8 et 6 personnes ☑ 2 Services à fondue ☑ 1 batteur à fouets ☑ 1 essoreuse à salade ☑ plats de service ovales inox et plastiques ☑ 8 saladiers ronds inox, verre et poterie ☑ 1 moule à gâteaux ☑ 1 moule à tarte ☑ 1 presse agrumes ☑ 6 plats à four ☑ 2 Poêles ☑ 9 Casseroles</p><p>La vaisselle et les ustensiles sont suffisants pour 12 personnes, les produits de nettoyage sont fournis.</p><p><u>Equipements sanitaires :</u></p><p>☑ 2 Lavabos ☑ 2 WC ☑ 2 Douches ☑ 1 baignoire bébé ☑ 1 matelas à langer</p><p><u>Linge :</u></p><p>Tous les lits ont chacun 1 alèse, 1 plaid, 1 couette et 1 ou 2 oreillers avec housse de protection.</p><p>Le linge de lit est fourni (taies d'oreillers, housse de couette, draps plats pour matelas)</p><p>☑ 4 lits 2 personnes</p><p>☑ 3 lits 1 personne</p><p>☑ 2 lits bébé</p><p>☑ 2 canapés convertibles</p><p><u>Divers :</u></p><p>☑ 1 smart télévision avec télécommande ☑ 1 barre de son ☑ 1 fer à repasser ☑ 1 aspirateur ☑ salon de jardin ☑ barbecue ☑ lave linge ☑ Colonne de ventilation</p><p>☑ 2 chaises bébé ☑ 2 transats (piscine) ☑ 4 transats (gîte )☑ 1 rallonge multiprises ☑ 1 sèche cheveux</p><p>Animaux domestiques acceptés avec supplément de 3€ par jour</p>",
+  "ctDesignationTitre": "Il est convenu d’une location meublée type F5 se trouvant à l'adresse suivante Gîte Manola 14 rue de la Vautée 08240 Fossé",
+  "ctPrincipCarac": "<p><u>Chauffage :</u> électrique</p><p><u>Le locataire à la jouissance</u> d’une cour privative fermée de 600 m2 avec la possibilité d’entrer la voiture et d’une aire de jeu, d'un trampoline, d'une table de ping pong. Pendant la durée du séjour, le locataire à la jouissance des dépendances situées à 150 m du lieu de résidence à savoir une piscine couverte chauffée, de 12m par 5m50 avec cabine infra rouge, spa, ainsi qu’une salle de jeu comportant, billard, baby-foot.</p><p>Horaires d’ouverture, nous demandons simplement que pour les personnes qui viennent la nuit, la musique soit mise en sourdine pour ne pas gêner les voisins.</p><p>Afin de laisser l’espace piscine propre, il est conseillé de prendre des claquettes. Pensez aussi aux lunettes. Par mesure d’hygiène, les maillots de bain seront préférés aux shorts.</p><p><u>Nombre de couchages dans les chambres au nombre de 4 :</u> 11 personnes</p><p><u>Nombre de pièces </u>: 5</p><p><u>Surface habitable :</u> 110m²</p>",
+  "ctSituLog": "<p>Le logement est dans un petit village <span style=\"color: red;\">(en fonction de votre heure d’arrivée, il est préférable de vous approvisionner sur votre parcours pour éviter de faire des km inutilement)</span></p><p><u>Distance des principaux sites touristiques et services :</u></p><p>Lac de Bairon ➯ 20km <span style=\"color: white;\">...............</span>Karting Douzy ➯ 35km<span style=\"color: white;\"> ............</span>Frontière Belge ➯ 50km <span style=\"color: white;\">...........</span>Frontière du Luxembourg ➯ 100km</p><p>Plan d’eau Buzancy ➯ 4km<span style=\"color: white;\"> ........</span>Forêt ➯ 1km<span style=\"color: white;\"> ............................</span>Proxi Buzancy ➯ 4km <span style=\"color: white;\">..............</span>Centre commercial ➯ 18km</p><p>Médecin pharmacie ➯ 4km<span style=\"color: white;\"> ........</span>Hôpital Vouziers ➯ 25km<span style=\"color: white;\"> .........</span>Hôpital Sedan ➯ 40km<span style=\"color: white;\"> .............</span>Boulanger Mansart ➯ 4km</p>",
+  "taxeDiverses": 0.8,
+  "logoLink": "606d9d9f385951001144ec6b",
+  "vignetteLink": "6060692835afec001149b408",
+  "contractImgId": "605c4b2bbd0859001131b6c8",
+  "lat": "49.44558",
+  "lng": "5.00783",
+  "lienMap": "https://goo.gl/maps/WxpNbAfAQMuTU4WLA"
+},{
+  "_id": {
+    "$oid": "6009db6462254c15a4d4ea40"
+  },
+  "pdf": [],
+  "nom": "Brinchette",
+  "mtitle": "Les Gîtes WAO | Brinchette",
+  "presGiteSEO": "De conception moderne, ce gîte récent vous accueillera toute l'année. Il se situe 24 rue de la Gare 08240 Bar les Buzancy. Un petit village de 400 habitants ou vous trouverez les principaux commerces comme proxi, boulanger, garage, pharmacie, médecin.",
+  "mdesc": {
+    "log": {
+      "timeTakenInMilliseconds": 5
+    },
+    "result": "De conception moderne, ce gîte récent vous accueillera toute l'année. Il se situe 24 rue de la Gare 08240 Bar les Buzancy. Un petit village de 400 habitants ou",
+    "ranges": [
+      [
+        159,
+        160
+      ]
+    ],
+    "allTagLocations": [],
+    "filteredTagLocations": []
+  },
+  "slug": "brinchette",
+  "couleur1": "#b01700",
+  "videoLink": "<iframe width=\"95%\" height=\"315\" src=\"https://www.youtube.com/embed/8C3psgJuDl4\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+  "texte1": "Situation 24 rue de la Gare 08240 Bar les Buzancy. Le gîte Brinchette est opérationnel depuis début 2011, le terrain est complètement clos. Ce gîte a 5 chambres.",
+  "detailGite": "Au rez de chaussée, vous aurez une grande pièce à vivre, 1 chambre et 1 salle de bain conçues pour personne à mobilité réduite. La piscine est intégrée dans la construction, on y accède par la salle à manger. A l’étage, 4 chambres, 1 WC, 1 salle de bain et 1 salle de jeux. La description détaillée des couchages se trouve sous chaque photo. \n\n",
+  "reviews": [],
+  "calendrierLink": "<iframe src=\"https://calendar.google.com/calendar/embed?showTitle=0&showPrint=0&showTz=0&height=600&wkst=2&bgcolor=%23FFFFFF&src=kfbepdqhbmcbam3mekpabjqvrs%40group.calendar.google.com&color=%23711616&src=fr.french%23holiday%40group.v.calendar.google.com&color=%232952A3&src=g82d68dhkmm7s4ppo53547jkdg%40group.calendar.google.com&color=%23333333&ctz=Europe%2FParis\" style=\"border-width:0\" width=\"95%\" height=\"600\" frameborder=\"0\" scrolling=\"no\"></iframe>",
+  "photos": [],
+  "createdAt": {
+    "$date": "2021-01-21T19:52:04.393Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-21T15:19:25.222Z"
+  },
+  "__v": 18,
+  "capaciteMax": 25,
+  "calendarId": "kfbepdqhbmcbam3mekpabjqvrs@group.calendar.google.com",
+  "actif": false,
+  "caution": 350,
+  "coefficients": {
+    "basseSaison": 380,
+    "hauteSaison": 180,
+    "moyenneSaison": 160,
+    "noel": 670,
+    "nouvelAn": 200,
+    "quatreNuitees": 430,
+    "troisNuitees": 220,
+    "uneNuitee": 80
+  },
+  "nPers": 15,
+  "texteExterieur": "En venant de Vouziers, c'est la 2ème maison sur votre gauche en face de la pancarte d'entrée du village de Buzancy. Une haie de thuyas longe le terrain qui est complètement clos par un grillage.",
+  "texteInterieur": "Au rez de chaussée se trouve une grande pièce à vivre, un coin cuisine, 1 chambre et une salle de bain accessible aux personnes à mobilité réduite. A l'étage se situe la salle de jeux, 4 chambres, 1 salle de bain, 1 WC. Vous avez le détail des couchages dans le descriptif de chaque photo.",
+  "textePiscine": "La piscine de 9 m par 4,5 m est dans un local couvert, chauffé, intégré dans la construction. Seuls les locataires du gîte y ont accès, cette piscine est totalement privée et il y a un film opaque sur toutes les fenêtres et baies vitrées.\n",
+  "couleur2": "#000000",
+  "cp": "08240",
+  "ville": "Buzancy",
+  "adresse": "24 rue de la gare",
+  "ftLit": 5,
+  "ftMenage": 70,
+  "supplementParPers": 15,
+  "tarifDeBase": 1135,
+  "tarifParPersParNuit": 30,
+  "RIB": {
+    "BIC": "CMCICFRPP",
+    "IBAN": "FR76 3008 7337 5400 0202 9190 114",
+    "TITULAIRE": "SAS WAO"
+  },
+  "equipementExterieur": [
+    "Aire de jeux avec toboggan",
+    " Trampoline",
+    " Table de ping pong",
+    " Barbecue",
+    " Salon de jardin"
+  ],
+  "equipementInterieur": [
+    "TV au rez de chaussée",
+    " Canapés convertibles",
+    " Vaisselle et casseroles suffisantes pour 20 personnes",
+    " Flûtes à champagne et verres ballons",
+    " SMART TV à l'étage",
+    "  Billard",
+    " Baby foot",
+    "  Jeu de fléchettes",
+    "  Wii et 4 manettes",
+    " Oreillers et couettes pour chaque lit et canapé",
+    " WI FI gratuit"
+  ],
+  "equipementPiscine": [
+    "SPA",
+    " Pataugeoire bébé",
+    " Douche",
+    " WC"
+  ],
+  "texte": "Chaque gîte a sa propre piscine. Celle-ci n'est pas partagée, elle n'est accessible que par les occupants du gîte.",
+  "ctPrincipCarac": "<p><u>Chauffage :</u> au rez de chaussée sol chauffant et radiateur à l’étage</p><p><u>Le locataire à la jouissance</u> d’une cour privative fermée de 1820 m2 avec la possibilité d’entrer la voiture et d’une aire de jeu.</p><p>Pendant la durée du séjour, le locataire à la jouissance de la piscine couverte chauffée attenante à la maison, de 9 m par 4m50 avec cabine infra rouge, spa, ainsi qu’un espace comportant table de ping pong, trampoline, aire de jeu.</p><p>Afin de laisser l’espace piscine propre, il est conseillé de prendre des claquettes. Pensez aussi aux lunettes. Par mesure d’hygiène, les maillots de bain seront préférés aux shorts.</p><p><u>Nombre de couchages dans les chambres au nombre de 5 :</u> 15 personnes</p><p><u>Nombre de pièces </u>: 6 + 1 salle de jeux</p><p><u>Surface habitable :</u> 180m²</p>",
+  "ctSituLog": "<p>Le logement est dans un village de 400 habitants. <span style=\"color: red;\">(en fonction de votre heure d’arrivée, il est préférable de vous approvisionner sur votre parcours pour éviter de faire des km inutilement)</span></p><p><u>Distance des principaux sites touristiques et services :</u></p><p>Lac de Bairon ➯ 16km<span style=\"color: white;\">......................</span>Karting Douzy ➯ 35km <span style=\"color: white;\">...........</span>Frontière Belge ➯ 50km<span style=\"color: white;\"> ..........</span>Frontière du Luxembourg ➯ 100km</p><p>Plan d’eau Buzancy ➯ 1km<span style=\"color: white;\">..............</span> Forêt ➯ 1km<span style=\"color: white;\"> ..........................</span>Proxi ➯ sur place<span style=\"color: white;\"> .....................</span>Centre commercial ➯ 22km</p><p>Médecin pharmacie ➯ sur place<span style=\"color: white;\">....... </span>Hôpital Vouziers ➯ 22km<span style=\"color: white;\"> .......</span>Hôpital Sedan ➯ 40km<span style=\"color: white;\"> ............</span>Boulanger Mansart ➯ sur place</p>",
+  "ctDescLog": "<p><span style=\"color: red;\">Vous trouverez le détail des couchages en téléchargement sur notre site (gites-wao.fr/onglet du gîte/Description des couchages &amp; plan du gîte).</span></p><p>Les descriptifs de ce contrat tiennent lieu d'inventaire. Tout manquement à cette liste sera à nous signaler rapidement.</p><p>Le logement est équipé de vaisselle, mobilier intérieur et extérieur, ustensiles de nettoyage.</p><p>Nous ne fournissons pas le linge de maison, ni les serviettes de toilette.</p><p><u>Exposition :</u> sud <u>Vue : </u>campagne</p><p><u>Agencement de la cuisine : Coin cuisine dans la pièce principale.</u></p><p>☑ Evier deux bacs ☑ lave vaisselle ☑ Réfrigérateur ☑ Plaques induction ☑ Four ☑ Four micro ondes ☑ Congélateur coffre ☑ 1 Cafetière à filtre ☑ 1 senseo ☑ 1 Grille pain</p><p>☑ 1 bouilloire ☑ 1 Autocuiseur ☑ 3 Services à raclette 8 personnes ☑ 3 Services à fondue ☑ 2 appareils à croque Monsieurs ☑ 2 crêpières électriques ☑ 1 batteur à fouets</p><p>☑ 1 robot marie moulinex ☑ 1 essoreuse à salade ☑ plats de service ovales inox et plastiques ☑ 4 saladiers ronds inox, verre et poterie ☑ 2 moules à gâteaux ☑ 3 moules à tarte ☑ 1 presse agrumes ☑ 3 plats à four ☑ 4 Poêles ☑ 10 Casseroles</p><p>La vaisselle et les ustensiles sont suffisants pour une vingtaine de personnes, les produits de nettoyage sont fournis.</p><p><u>Equipements sanitaires :</u></p><p>☑ 4 Lavabos ☑ 3 WC ☑ 3 Douches ☑ 1 baignoire bébé ☑ 1 matelas à lange</p><p><u>Linge :</u></p><p>Tous les lits ont chacun 1 alèse, 1 plaid, 1 couette et 1 ou 2 oreillers avec housse de protection.</p><p>Le linge de lit est fourni (taies d'oreillers, housse de couette, draps plats pour matelas)</p><p>☑ 4 lits 2 personnes</p><p>☑ 9 lits 1 personne</p><p>☑ 2 lits bébé</p><p>☑ 4 canapés convertibles.</p><p><u>Divers :</u></p><p>☑ 2 Télévisions avec télécommande ☑ 1 barre de son à l'étage ☑ 1 chaine hi-fi au rez de chaussée ☑ 1 WII 4 manettes ☑ 1 fer à repasser ☑ 1 aspirateur dyson ☑ salon de jardin ☑ barbecue ☑ lave linge ☑ Sèche Linge ☑ 2 chaises bébé ☑ 4 transats ☑ 2 bains de soleil ☑ 1 Billard ☑ 1 Baby foot ☑ 1 téléphone ☑ 1 sèche cheveux ☑ 1 rallonge multiprises rouge ☑ décoration diverses, cadres, livres, jeux</p><p>Animaux domestiques acceptés avec supplément de 3€ par jour</p>",
+  "taxeDiverses": 1,
+  "logoLink": "606d9dc8385951001144ec6c",
+  "vignetteLink": "6054780fbd0859001131b6ae",
+  "nbKmDeLaMaison": 4,
+  "contractImgId": "605c4ba6bd0859001131b6c9",
+  "lat": "49.42987",
+  "lng": "4.95078",
+  "lienMap": "https://goo.gl/maps/FuMMjBZB2hJSAWup9"
+},{
+  "_id": {
+    "$oid": "6009dbb162254c15a4d4ea41"
+  },
+  "pdf": [],
+  "nom": "Lauberoye",
+  "mtitle": "Les Gîtes WAO | Lauberoye",
+  "presGiteSEO": "Le gîte ouvert toute l'année est situé 2 rue du moulin à 900 m du hameau de Fontenois à l’écart des routes dans un endroit calme et reposant sur la commune de Saint-Pierremont (08240).  \nNous avons ajouté une piscine dans un local fermé, chauffé qui a été adossé à la maison existante. ",
+  "mdesc": {
+    "log": {
+      "timeTakenInMilliseconds": 1
+    },
+    "result": "Le gîte ouvert toute l'année est situé 2 rue du moulin à 900 m du hameau de Fontenois à l’écart des routes dans un endroit calme et reposant sur la commune de S",
+    "ranges": null,
+    "allTagLocations": [],
+    "filteredTagLocations": []
+  },
+  "slug": "lauberoye",
+  "couleur1": "#8ccb09",
+  "videoLink": "<iframe width=\"95%\" height=\"315\" src=\"https://www.youtube.com/embed/jq0oXjjHS4I\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+  "texte1": "Le gîte est situé 2 rue du moulin à 900 m du hameau de Fontenois à l’écart des routes dans un endroit calme et reposant sur la commune de Saint-Pierremont (08240).  il a 6 chambres.\n\nNous avons ajouté une piscine couverte qui a été adossée à la maison existante. ",
+  "detailGite": "Pour votre divertissement, le gîte Lauberoye a des équipements comme piscine, cabine infra-rouge, billard, baby-foot, trampoline, aire de jeux, table de ping-pong, jeu de fléchettes. Idéal pour EVG ou EVJ.\n",
+  "reviews": [],
+  "calendrierLink": "<iframe src=\"https://calendar.google.com/calendar/embed?showTitle=0&showPrint=0&showTz=0&height=600&wkst=2&bgcolor=%23FFFFFF&src=c6vjcvsrfcl6afmjds9mdng8oc%40group.calendar.google.com&color=%232F6309&src=fr.french%23holiday%40group.v.calendar.google.com&color=%232952A3&src=g82d68dhkmm7s4ppo53547jkdg%40group.calendar.google.com&color=%23333333&ctz=Europe%2FParis\" style=\"border-width:0\" width=\"95%\" height=\"600\" frameborder=\"0\" scrolling=\"no\"></iframe>",
+  "photos": [],
+  "createdAt": {
+    "$date": "2021-01-21T19:53:21.894Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-21T15:19:46.672Z"
+  },
+  "__v": 13,
+  "capaciteMax": 25,
+  "calendarId": "c6vjcvsrfcl6afmjds9mdng8oc@group.calendar.google.com",
+  "actif": false,
+  "adresse": "2 rue du moulin",
+  "caution": 350,
+  "coefficients": {
+    "basseSaison": 380,
+    "hauteSaison": 180,
+    "moyenneSaison": 160,
+    "noel": 670,
+    "nouvelAn": 200,
+    "quatreNuitees": 430,
+    "troisNuitees": 220,
+    "uneNuitee": 80
+  },
+  "couleur2": "#000000",
+  "cp": "08240",
+  "nPers": 15,
+  "ville": "Fontenois",
+  "equipementExterieur": [
+    "Aire de jeux avec toboggan",
+    " Petit Hamac",
+    " Trampoline",
+    " Table de ping-pong",
+    " Barbecue",
+    " Salon de jardin",
+    " Terrain de pétanque",
+    " Pédalos à grandes roues à l'étang"
+  ],
+  "equipementInterieur": [
+    "Jeu de fléchettes",
+    " TV",
+    " 1 Canapés convertibles",
+    " Vaisselle et casseroles suffisantes pour 25 personnes",
+    " Flûtes à champagne et verres ballons",
+    " Billard",
+    " Baby foot",
+    " Wii et 4 manettes",
+    " WI FI gratuit"
+  ],
+  "equipementPiscine": [
+    "SPA",
+    " Douche",
+    " WC",
+    " Filet pour jouer au ballon"
+  ],
+  "ftLit": 5,
+  "ftMenage": 90,
+  "supplementParPers": 15,
+  "tarifDeBase": 1235,
+  "tarifParPersParNuit": 32,
+  "texteExterieur": "En pleine nature, vous pourrez vous promener sur un terrain de 6 ha et pour les amateurs de pêche, attraper des poissons dans un étang de 7000 m2, ou faire un petit tour de pédalo. Calme et tranquillité sont les maîtres mots de ce lieu à l'écart des routes. Endroit idéal pour EVG ou EVF.",
+  "texteInterieur": "Au rez de chaussée, vous aurez une grande véranda qui sert de salle à manger, 1 cuisine, 1 salon avec smart TV, 3 chambres et 1 salle de bain. A l’étage, 3 chambres, 1 salle de bain. La description détaillée des couchages se trouve sous chaque photo. En sous sol une grande salle avec divers jeux pour petits et grands. \nAu total il y a 4 douches et 4 wc dans cette maison. ",
+  "textePiscine": "Piscine de 10 m par 5 dans un local couvert et chauffé  avec plancher chauffant autour de la piscine. Elle est totalement privée pour les locataires du gîte et à l’écart du village, il n’y a pas de vis à vis et des rideaux sont installés sur toutes les fenêtres de la piscine. On y accède par la salle de jeux.\n\n",
+  "RIB": {
+    "BIC": "AGRIFRPP802",
+    "IBAN": "FR76 1020 6084 0398 3877 2925 093",
+    "TITULAIRE": "SAS WAO"
+  },
+  "texte": "Chaque gîte a sa propre piscine. Celle-ci n'est pas partagée, elle n'est accessible que pas les occupants du gîte.",
+  "ctDescLog": "<p><span style=\"color: red;\">Vous trouverez le détail des couchages en téléchargement sur notre site (gites-wao.fr/onglet du gîte/Description des couchages &amp; plan du gîte).</span></p><p>Les descriptifs de ce contrat tiennent lieu d'inventaire. Tout manquement à cette liste sera à nous signaler rapidement. Le logement est équipé de vaisselle, mobilier intérieur et extérieur, ustensiles de nettoyage. Nous ne fournissons pas le linge de maison, ni les serviettes de toilette.</p><p><u>Exposition :</u> sud <u>Vue :</u> campagne</p><p><u>Agencement de la cuisine : Coin cuisine dans la pièce principale.</u></p><p>☑ Evier deux bacs ☑ Lave vaisselle ☑ Réfrigérateur ☑ Plaque induction ☑ Four ☑ Four micro ondes ☑ Congélateur coffre ☑ 2 Cafetières à filtre, ☑ 1 senseo ☑ 1 Grille pain</p><p>☑ 1 bouilloire ☑ 1 Autocuiseur ☑ 3 Services à raclette 8 personnes ☑ 3 Services à fondue ☑ 1 grill ☑ 1 batteur à fouets ☑ 1 mixeur plongeant ☑ 1 essoreuse à salade ☑ plats de service ovales inox et plastiques ☑ 10 saladiers ronds inox, ☑ verre et poterie ☑ 4 moules à gâteaux ☑ 4 moules à tarte ☑ 1 presse agrumes☑ 6 plats à four ☑ 4 Poêles ☑ 8 Casseroles.</p><p>La vaisselle et les ustensiles sont suffisants pour une vingtaine de personnes, les produits de nettoyage sont fournis.</p><p><u>Equipements sanitaires :</u></p><p>☑ 3 Lavabos ☑ 4 WC ☑ 4 Douches ☑ 1 baignoire bébé ☑ 1 matelas à lange</p><p><u>Linge :</u></p><p>Tous les lits ont chacun 1 alèse, 1 plaid, 1 couette et 1 ou 2 oreillers avec housse de protection.</p><p>Le linge de lit est fourni (taies d'oreillers, housse de couette, draps plats pour matelas)</p><p>☑ 8 lits 2 personnes</p><p>☑ 4 lits 1 personne</p><p>☑ 2 lits bébé</p><p>☑ 2 canapés convertibles</p><p><u>Divers :</u></p><p>☑ 2 Télévisions avec télécommande ☑ 1 Lecteur de DVD avec télécommande ☑ 1 WII 4 manettes ☑ 1 Fer à repasser ☑ 1 Aspirateur dyson ☑ Salon de jardin</p><p>☑ Barbecue ☑ Lave linge ☑ Sèche Linge ☑ 2 chaises bébé ☑ 5 transats ☑ 2 bains de soleil ☑ 1 Billard ☑ 1 Baby foot ☑ 1 téléphone 2 sèche cheveux 1 rallonge multiprises rouge décoration diverses, cadres, livres, jeux</p><p>Animaux domestiques acceptés avec supplément de 3€ par jour</p>",
+  "ctDesignationTitre": "Il est convenu d’une location meublée type F7 se trouvant à l'adresse suivante Gîte Lauberoye 2 rue du Moulin Fontenois 08240 Saint Pierremont",
+  "ctPrincipCarac": "<p><u>Chauffage :</u> Géothermie, feu à l'âtre, sol chauffant dans la piscine.</p><p><u>Le locataire à la jouissance</u> d’un terrain de 6 ha avec un étang de 7000 m2. La baignade dans cet étang est interdite. Pendant la durée du séjour, le locataire à la jouissance d'une piscine couverte chauffée attenante à la maison, de 10 m par 5 avec cabine infra rouge et spa, ainsi qu’un espace comportant table de ping pong, trampoline, aire de jeu.</p><p>Afin de laisser l’espace piscine propre, il est conseillé de prendre des claquettes. Pensez aussi aux lunettes. Par mesure d’hygiène, les maillots de bain seront préférés aux shorts.</p><p><u>Nombre de couchages dans les chambres au nombre de 6 :</u> 15 personnes</p><p><u>Nombre de pièces :</u> 7 + 1 véranda + 1 salle de jeux</p><p><u>Surface habitable :</u> 283m²</p>",
+  "ctSituLog": "<p>Le logement est à l'écart d'un hameau à 900 m <span style=\"color: red;\">(en fonction de votre heure d’arrivée, il est préférable de vous approvisionner sur votre parcours pour éviter de faire des km inutilement)</span></p><p><u>Distance des principaux sites touristiques et services :</u></p><p>Lac de Bairon ➯ 17km <span style=\"color: white;\">...........</span>Karting Douzy ➯ 31km<span style=\"color: white;\"> ...........</span>Frontière Belge ➯ 50km<span style=\"color: white;\"> ..........</span>Frontière du Luxembourg ➯100km</p><p>Plan d’eau Buzancy ➯ 7km <span style=\"color: white;\">....</span>Forêt ➯ 1km <span style=\"color: white;\">..........................</span>Proxi Buzancy ➯ 7km <span style=\"color: white;\">..............</span>Centre commercial ➯ 24km</p><p>Médecin pharmacie ➯ 7km<span style=\"color: white;\"> ....</span>Hôpital Vouziers ➯ 24km<span style=\"color: white;\"> .......</span>Hôpital Sedan ➯ 34km<span style=\"color: white;\"> .............</span>Boulanger Mansart Buzancy ➯ 7km</p>",
+  "taxeDiverses": 1,
+  "bandeau": "Message info covid :",
+  "logoLink": "606d9dfb385951001144ec6d",
+  "vignetteLink": "605478afbd0859001131b6af",
+  "nbKmDeLaMaison": 12,
+  "contractImgId": "605c4be2bd0859001131b6ca",
+  "lat": "49.47065",
+  "lng": "4.92281",
+  "lienMap": "https://goo.gl/maps/znvJD78EPEJLWqwi9"
+},{
+  "_id": {
+    "$oid": "603185090116365e90ce4e1f"
+  },
+  "coefficients": {
+    "troisNuitees": 220,
+    "quatreNuitees": 430,
+    "uneNuitee": 80,
+    "basseSaison": 380,
+    "moyenneSaison": 160,
+    "hauteSaison": 180,
+    "noel": 670,
+    "nouvelAn": 200
+  },
+  "actif": true,
+  "nPers": 20,
+  "nom": "Petit Nay",
+  "adresse": "81 route de Stenay",
+  "cp": "08240",
+  "ville": "Nouart",
+  "capaciteMax": 50,
+  "mtitle": "Les Gîtes WAO | Le gîte du Petit Nay ",
+  "presGiteSEO": "Ce gîte de groupe est situé 81 route de Stenay, à 600 m à l'écart du village de Nouart. \nIl est accessible aux personnes à mobilité réduite. Avec ses 12 chambres et 2 dortoirs, il peut recevoir une cinquantaine de personnes, une grande chambre froide permet de stocker l'alimentation.\nVous pourrez vous détendre autour d'un étang situé derrière le gîte. La construction d'une piscine va commencer en avril, pour l'instant il y a un SPA en extérieur.\n\n",
+  "mdesc": {
+    "log": {
+      "timeTakenInMilliseconds": 1
+    },
+    "result": "Ce gîte de groupe est situé 81 route de Stenay, à 600 m à l'écart du village de Nouart. \nIl est accessible aux personnes à mobilité réduite. Avec ses 12 chambre",
+    "ranges": null,
+    "allTagLocations": [],
+    "filteredTagLocations": []
+  },
+  "slug": "petit-nay",
+  "couleur1": "#de76b9",
+  "couleur2": "#111111",
+  "videoLink": "<iframe width=\"95%\" height=\"315\" src=\"https://www.youtube.com/embed/Er01K6nIf54\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+  "texteExterieur": "En extérieur vous aurez beaucoup d'espace, vous pourrez jouer au ballon sur le grand terrain de la propriété, faire une balade autour de l'étang (la pêche est autorisée). Si le temps le permet manger au calme sur la terrasse ou sous les arbres. Pour l'instant le terrain n'est pas fermé, c'est prévu pour plus tard.\nLe grand parking permet de stationner toutes les voitures.",
+  "texteInterieur": "Vous entrez par l'ancien bar qui sert désormais de coin repos ou de salle TV. Vous pouvez aussi y jouer tranquillement aux cartes.  La grande salle à manger vous propose diverses tables, à arranger à votre façon, pour prendre vos repas en famille ou entre amis. La cuisine équipée de tout le nécessaire vous permettra de concocter vos différents plats. Si vous êtes nombreux, une grande chambre froide est à votre disposition dans le bâtiment annexe. Si vous faites appel à un traiteur (voir proposition sur onglet PARTENAIRES/Restauration), il aura plus de place et il ne sera pas dérangé dans cet ancien laboratoire. La 2ème smart TV dans la salle de jeux évitera les conflits de générations si besoin. Les canapés vous permettront de vous relaxer et de profiter de vos soirées cinéma. \nLes 10 chambres dont 5 ont une salle de bain indépendante et les 2 dortoirs de 12 places chacun, complètent les équipements.\nPour l'instant, il y a 7 douches, 3 baignoires et 11 WC. Douches et WC supplémentaires sont prévus dans la piscine.\n",
+  "textePiscine": "Une piscine de 15 m par 7 est prévue sur ce site, la construction va débuter en avril 2021 pour se terminer si tout va bien pour les fêtes de fin d’année 2021. Les locations après cette date subiront une augmentation variant entre 500 et 600 € par rapport au tarif calculé actuellement.\n                                ",
+  "texte": "Venez profiter de cette magnifique région à découvrir en famille ou entre amis !\nComme il est à l'écart du village, aucun risque de déranger les voisins.\nNous acceptons les animaux.  \n",
+  "detailGite": "Pour l’instant il n’y a pas encore de piscine, mais un SPA, billard, baby-foot\nCe grand bâtiment a un étage où sont situées la majorité des chambres.\nTout le nécessaire est prévu pour recevoir une cinquantaine de personnes et une grande chambre froide permet de stocker l’alimentation.  \nAu rez de chaussée, pour les personnes à mobilité réduite, une chambre est à leur disposition avec salle de bain et WC indépendants et accès direct à l'extérieur.\n   ",
+  "calendrierLink": "<iframe src=\"https://calendar.google.com/calendar/embed?showTitle=0&showPrint=0&showTz=0&height=600&wkst=2&bgcolor=%23FFFFFF&src=3bvm4aajj1b4ufu9eo1blm2pb4%40group.calendar.google.com&color=%23B1365F&src=fr.french%23holiday%40group.v.calendar.google.com&color=%232952A3&src=g82d68dhkmm7s4ppo53547jkdg%40group.calendar.google.com&color=%23333333&ctz=Europe%2FParis\" style=\"border-width:0\" width=\"95%\" height=\"600\" frameborder=\"0\" scrolling=\"no\"></iframe>",
+  "tarifDeBase": 930,
+  "supplementParPers": 15,
+  "tarifParPersParNuit": 25,
+  "ftMenage": 160,
+  "ftLit": 5,
+  "createdAt": {
+    "$date": "2021-02-20T21:54:17.557Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-21T15:18:10.329Z"
+  },
+  "__v": 19,
+  "calendarId": "3bvm4aajj1b4ufu9eo1blm2pb4@group.calendar.google.com",
+  "caution": 350,
+  "equipementExterieur": [
+    "Toboggan",
+    " Trampoline",
+    " Table de ping-pong",
+    " Panier de basket",
+    " Terrain de pétanque",
+    " Barbecue",
+    " Salon de jardin"
+  ],
+  "equipementInterieur": [
+    "Cuisine : tout est prévu pour plus de 50 personnes",
+    " Billard",
+    " Baby-foot",
+    " Jeux de fléchettes",
+    " Divers jeux de sociétés",
+    " Wii avec 4 manettes",
+    " WIFI gratuit"
+  ],
+  "equipementPiscine": [
+    "SPA",
+    " Cabine infra rouge",
+    " WC",
+    " Douches"
+  ],
+  "RIB": {
+    "BIC": "CMCICFRPP",
+    "IBAN": "FR76 3008 7337 5400 0202 9190 114",
+    "TITULAIRE": "SAS WAO"
+  },
+  "ctDescLog": "<p><span style=\"color: red;\">Vous trouverez le détail des couchages en téléchargement sur notre site (gites-wao.fr/onglet du gîte/Intérieur/Description des chambres).</span></p><p>Les descriptifs de ce contrat tiennent lieu d'inventaire. Tout manquement à cette liste sera à nous signaler rapidement. Le logement est équipé de vaisselle, mobilier intérieur et extérieur, ustensiles de nettoyage. Nous ne fournissons pas le linge de maison, ni les serviettes de toilette.</p><p><strong><u>Exposition : </u></strong>sud <strong><u>Vue : </u></strong>campagne</p><p><strong><u>Agencement de la cuisine :</u></strong></p><p><strong style=\"color: rgb(32, 33, 34);\"><u>﻿</u></strong><span style=\"color: white;\">☑</span><span style=\"color: rgb(32, 33, 34);\"> </span>Evier deux bacs ☑ 2 lave vaisselle ☑ Réfrigérateur ☑ congélateur ☑ Chambre froide ☑ Plaques induction ☑ Four ☑ Four micro ondes <strong style=\"color: rgb(32, 33, 34);\"><u>﻿</u></strong>☑ 2 Cafetières à filtre ☑ 1 Senseo ☑ 1 bouilloire ☑ 1 Grille pain ☑ 1 Autocuiseur ☑ 5 Services à raclette 6 personnes ☑ 4 Services à fondue ☑ 3 croque Monsieur ☑ 1 gaufrier ☑ 2 planchas ☑ 1 râpeur trancheur ☑ 1 mixeur plongeant ☑ 1 batteur à fouet ☑ 1 essoreuse à salade ☑ 12 plats de service ovales inox et plastiques ☑ 1 moule à gâteaux ☑ 1 moule à tarte ☑ 1 presse agrumes ☑ 3 seaux à glace ☑ thermos ☑ 3 plats à four ☑ 4 Poêles ☑ 11 Casseroles (9 avec couvercles, 2 sans) ☑ 1 percolateur 65 tasses</p><p>La vaisselle et les ustensiles sont suffisants pour une cinquantaine de personnes, les produits de nettoyage sont fournis.</p><p><strong><u>Equipements sanitaires :</u></strong></p><p>☑ 12 Lavabos ☑ 11 WC ☑ 7 Douches ☑ 3 baignoires ☑ 1 baignoire bébé ☑ 2 radiateurs d'appoint dont 1 soufflant ☑ 1 évier 1 bac</p><p><strong><u>Linge :</u></strong></p><p>Tous les lits ont chacun 1 alèse, 1 couette et 1 ou 2 oreillers avec housse de protection.</p><p>Le linge de lit est fourni (taies d'oreillers, housse de couette, draps plats pour matelas)</p><p>☑<span style=\"color: rgb(32, 33, 34);\"> </span>13 lits 2 personnes</p><p>☑<span style=\"color: rgb(32, 33, 34);\"> </span>28 lits 1 personne</p><p>☑<span style=\"color: rgb(32, 33, 34);\"> </span>4 lits bébé avec matelas, couette et oreiller</p><p><strong><u>Divers :</u></strong></p><p>☑ 2 smarts Télévision avec télécommande ☑ 2 barres de son avec télécommande ☑ 1 WII 4 manettes ☑ 1 Fer à repasser ☑ 1 Aspirateur dyson ☑ Salon de jardin ☑ Barbecue ☑ Lave linge ☑ Sèche linge ☑ 4 chaises hautes bébé ☑ 4 transats ☑ 1 matelas à langer ☑ Billard ☑ Baby foot ☑ 2 téléphones☑ 1 Amplificateur WI FI ☑ 1 sèche cheveux ☑ 2 rallonges multiprises grises ☑ décoration diverses, ☑ cadres, ☑ 7 vases, ☑ livres, ☑ jeux</p><p>Animaux domestiques acceptés avec supplément de 3€ par jour</p>",
+  "ctDesignationTitre": "Il est convenu d’une location meublée type F13 se trouvant à l'adresse suivante Gîte Petit Nay 81 route de Stenay 08240 Nouart",
+  "ctPrincipCarac": "<p><u>Chauffage :</u> Chaudière à bois, feu à l'âtre, électricité</p><p><u>Le locataire à la jouissance</u> d’un terrain autour du domaine et d'un étang. La baignade dans cet étang est interdite. Un grand parking permet de stationner les voitures. Pendant la durée du séjour, le locataire à la jouissance d'un SPA, d'une cabine infra rouge ainsi qu’un espace comportant table de ping pong, trampoline, aire de jeu.</p><p><u>Nombre de couchages dans les chambres au nombre de 12 :</u> 55 personnes</p><p><u>Nombre de pièces : </u>13 + 1 salle de réunion + 1 salle de jeux</p><p><u>Surface habitable :</u> 720m²</p>",
+  "ctSituLog": "<p>Le logement est à l'écart du village à 600m. <em style=\"color: red;\">(En fonction de votre heure d’arrivée, il est préférable de vous approvisionner sur votre parcours pour éviter de faire des km inutilement)</em></p><p><u>Distance des principaux sites touristiques et services :</u></p><p>Lac de Bairon ➯ 26km <span style=\"color: white;\">.............</span>Karting Douzy ➯ 35km<span style=\"color: white;\"> ............</span>Frontière Belge ➯ 50km <span style=\"color: white;\">..........</span>Frontière du Luxembourg ➯ 100km</p><p>Restaurants ➯ Liste au gîte<span style=\"color: white;\"> .....</span>Plan d’eau Buzancy ➯ 8km<span style=\"color: white;\"> .....</span>Forêt ➯ 1km<span style=\"color: white;\"> ...........................</span>Proxi Buzancy ➯ 8km</p><p>Centre commercial ➯ 14km<span style=\"color: white;\"> .....</span>Médecin pharmacie ➯ 8km <span style=\"color: white;\">....</span>.Hôpital Vouziers ➯ 29km <span style=\"color: white;\">........</span>Hôpital Sedan ➯ 44km</p><p>Boulangerie Mansart ➯ 8km</p>",
+  "nbKmDeLaMaison": 6,
+  "vignetteLink": "605478fabd0859001131b6b0",
+  "bandeau": "N'ayant pas toutes les autorisations pour construire la piscine, nous sommes à nouveau obligés de décaler ce projet",
+  "taxeDiverses": 0.8,
+  "logoLink": "606d9e37385951001144ec6e",
+  "contractImgId": "605c4c1bbd0859001131b6cb",
+  "lat": "49.44445",
+  "lng": "5.06060",
+  "lienMap": "https://goo.gl/maps/hQFX3dKRxWd7anH4A"
+}]

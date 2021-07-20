@@ -1,0 +1,359 @@
+[{
+  "_id": {
+    "$oid": "604652dfc5d5820011daca36"
+  },
+  "actif": false,
+  "client": "Abdelhak",
+  "note": 0,
+  "commentaire": "Gite super sympa, dans un petit village très très calme et apaisant loin des villes. Piscine sauna et jacuzzi ai top ! Bref un Week end qui nous a fait du bien. On reviendra...",
+  "giteConcerne": "manola",
+  "createdAt": {
+    "$date": "2021-03-08T16:37:51.663Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-17T12:46:28.523Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6046532ac5d5820011daca37"
+  },
+  "actif": false,
+  "client": "Ain Studer",
+  "note": 5,
+  "commentaire": "Excellent séjour. Après un accueil sympathique et une présentation des lieux, une réelle sensation de se retrouver comme chez soi. La piscine intérieure est un vrai plus malgré les petits soucis de condensation dus à l’humidité extérieure de la saison. Le gîte par lui même est bien conçu, fonctionnel et spacieux. La discrétion et la disponibilité des propriétaires est à souligner. Bravo, et continuez à apporter du bien-être à vos locataires.",
+  "giteConcerne": "manola",
+  "createdAt": {
+    "$date": "2021-03-08T16:39:06.115Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-08T16:39:06.115Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60465380c5d5820011daca38"
+  },
+  "actif": false,
+  "client": "Angèle",
+  "note": 5,
+  "commentaire": "Ce gîte est superbe, il peut facilement accueillir plus d'une cinquantaine de personnes, tout y est pour y être bien accueillis.\nVous y trouverez toutes les activités nécessaires pour y passer un agréable séjour en famille ou entre amis.\nNous garderons de très bons souvenirs de ce séjour à Nouart.\nEt nous remercions le gérant pour sa grande disponibilité et sa sympathie. ",
+  "giteConcerne": "petit-nay",
+  "createdAt": {
+    "$date": "2021-03-08T16:40:32.668Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-08T16:40:32.668Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604653a1c5d5820011daca39"
+  },
+  "actif": false,
+  "client": "Brice",
+  "note": 5,
+  "commentaire": "us avons loué ce gîte pour passer un weekend entres potes à l'occasion d'un enterrement de vie de garçon. Les activités du gîte sont très bien... la situation du gite permet de ne déranger personne... L'espace extérieur permet d'organiser de activités de plein air. La proximité du musée de la bière (stenay) permet de prévoir également une sortie... Nous avons passé un bon weekend à 9 personnes, c'est un cadre idéal pour un séjour inoubliable... Merci",
+  "giteConcerne": "manola",
+  "createdAt": {
+    "$date": "2021-03-08T16:41:05.391Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-08T16:41:05.391Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604653c1c5d5820011daca3a"
+  },
+  "actif": false,
+  "client": "Bruno",
+  "note": 5,
+  "commentaire": "Nous avons passé nouvel an au gîte de lauberoye, le gîte est conforme aux photos , super pour faire la fête . Jonas est super arrangeant et très gentil nous conseillons son gite fortement !",
+  "giteConcerne": "lauberoye",
+  "createdAt": {
+    "$date": "2021-03-08T16:41:37.397Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-08T16:41:37.397Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604653e3c5d5820011daca3b"
+  },
+  "actif": false,
+  "client": "Christine",
+  "note": 5,
+  "commentaire": "Gîte très bien équipé pour toutes les générations. Vaste salle de vie très appréciable. Beaucoup d'occupations sur place même en cas de mauvais temps. Accueil chaleureux et disponibilité des propriétaires à souligner. Accompagnement remarquable du client de la réservation jusqu'après le séjour. Gîte à recommander.",
+  "giteConcerne": "manola",
+  "createdAt": {
+    "$date": "2021-03-08T16:42:11.902Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-08T16:42:11.902Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60465406c5d5820011daca3c"
+  },
+  "actif": false,
+  "client": "Criss",
+  "note": 5,
+  "commentaire": "Gîte magnifique tout équipé dans un cadre splendide, idéale pour se retrouver entre amis et passer des moments exceptionnels, nous sommes tellement satisfait que nous comptons le réserver tous les ans. Merci à Martine et Jonas pour leur accueil et leur professionnalisme",
+  "giteConcerne": "petit-nay",
+  "createdAt": {
+    "$date": "2021-03-08T16:42:46.598Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-08T16:42:46.598Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6046542ac5d5820011daca3d"
+  },
+  "actif": false,
+  "client": "Dadou",
+  "note": 5,
+  "commentaire": "ous avons séjourné 3 jours du 29 avril au 1 er mai. Le. Gîte est très fonctionnel l espace détente avec piscine jaccuzzi et sauna qui se trouve à 150m est top et sans vis à vis. La propriétaire est très agréable. Joignable à tout moment. Je recommande sans hésitation.",
+  "giteConcerne": "manola",
+  "createdAt": {
+    "$date": "2021-03-08T16:43:22.888Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-08T16:43:22.888Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6046544dc5d5820011daca3e"
+  },
+  "actif": false,
+  "client": "Delecroix",
+  "note": 5,
+  "commentaire": "Gite réservé pour fêter mon départ en retraite. 15 personnes de 14 à 82 ans qui se sont amusées comme des gosses. Endroit idéal pour les réunions familiales où chacun trouve de quoi se divertir que ce soit à l'intérieur ou à l'extérieur. Je recommande vivement cette location.",
+  "giteConcerne": "brinchette",
+  "createdAt": {
+    "$date": "2021-03-08T16:43:57.911Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-08T16:43:57.911Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60465475c5d5820011daca3f"
+  },
+  "actif": false,
+  "client": "Ellemti",
+  "note": 5,
+  "commentaire": "Bonjour à tous, Par où commencer, nous nous sommes rendu ma femme et moi à ce gîte sur conseil d'amis. Dés l'accueil nous avons été positivement surpris par le professionnalisme et le respect de Jonas qui nous a fait visiter le gîte, tel un vrai hôtelier étoilé lol, nous a expliqué chaque choses en détails. La maison était dans un état irréprochable en terme de propreté ou d'aménagement, produits d'hygiène etc. Jonas a vraiment pensé à tout en terme de sécurité pour enfant en termes de rallonges etc, j'ai eu un léger soucis avec la chaine hi-fi de la maison en exactement 5min Jonas était présent pour régler ce soucis en 2min un grand merci. Il est sur et certain si tout se passe bien que nous reviendrons à ce gîte ainsi que plusieurs membres de ma famille, c'est magnifique de partager ce gîte en famille à plusieurs sans aucune crainte. C'était comme si c'était moi qui avait construit ce gîte pour ma famille tout est au bon endroit. Je ne vous souhaite que de la réussite et à très bientôt. Les jeux pour enfants sont top: terrain de badminton que l'on peut installé, pig-pong billard baby-foot trampoline etc etc",
+  "giteConcerne": "brinchette",
+  "createdAt": {
+    "$date": "2021-03-08T16:44:37.702Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-08T16:44:37.702Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60465496c5d5820011daca40"
+  },
+  "actif": false,
+  "client": "Emilie",
+  "note": 5,
+  "commentaire": "We vraiment génial au petit nay pour fêter notre anniversaire de mariage entre amis. Le gite est parfait il ne manque rien. Tout est fait pour que chacun s amuse et passe un agréable moment. Nous espérons pouvoir y revenir une prochaine fois pour fêter une autre occasion. Merci à Jonas pour sa disponibilité et sa gentillesse. Au plaisir.",
+  "giteConcerne": "petit-nay",
+  "createdAt": {
+    "$date": "2021-03-08T16:45:10.212Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-08T16:45:10.212Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604654b4c5d5820011daca41"
+  },
+  "actif": false,
+  "client": "Garcia",
+  "note": 5,
+  "commentaire": "Bonjour nous sommes allés passer le Week-end dernier du 07/12 au 10/12/2018 et comme d'habitude nous avons passé un excellent Week-end en famille tout était parfait. Les propriétaires toujours aussi aimable et à disposition . Cela fait déjà 3 fois que nous y allons et c'est toujours aussi bien les enfants s'éclatent et les grands aussi avec toutes les prestations qu'il y a dans le gite il y a de quoi faire. je vous le recommande les yeux fermés. Encore merci pour tout et à bientôt.",
+  "giteConcerne": "lauberoye",
+  "createdAt": {
+    "$date": "2021-03-08T16:45:40.853Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-08T16:45:40.853Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604654d5c5d5820011daca42"
+  },
+  "actif": false,
+  "client": "Groupe",
+  "note": 5,
+  "commentaire": "Malgré que nous étions un groupe qui n'allait pas du côté de Stenay pour le plaisir (examen) nous avons eu des compensations grâce au gîte brinchette qui nous offrait de réel moment de détente",
+  "giteConcerne": "brinchette",
+  "createdAt": {
+    "$date": "2021-03-08T16:46:13.812Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-08T16:46:13.812Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6046553ac5d5820011daca43"
+  },
+  "actif": false,
+  "client": "Harun",
+  "note": 5,
+  "commentaire": "Nous avons passez un week-end excellent au gîte Manola, les propriétaires nous ont très bien accueilli, leur discrétion et leur disponibilité permet de se sentir chez soi. Le village est très beau (campagne, vache, chevaux, poulailler etc), le calme est impressionnant, et les habitants vraiment très gentils. Je recommande ce gite bien évidemment, la piscine est vraiment top, ainsi que le jacuzzi, les enfants s'amusent enormément. La maison est vraiment fonctionnelle et bien agencé.",
+  "giteConcerne": "manola",
+  "createdAt": {
+    "$date": "2021-03-08T16:47:54.963Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-08T16:47:54.963Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6046555ac5d5820011daca44"
+  },
+  "actif": false,
+  "client": "Karelle",
+  "note": 5,
+  "commentaire": "Quel bonheur de se retrouver en famille de ce gîte spacieux et fonctionnel ! Les enfants comme les adultes ont trouvés leur place sans jamais se déranger. Nous avons pu profiter de toutes les commodités du gîtes les extérieurs sont parfaits pour se détendre et les espaces nombreux pour jouer. Les propriétaires sont à l'écoute et disponibles. Le réseau téléphonique est difficile mais vous avez un téléphone sur place accessible gracieusement c'est très appréciable. Alors pour vos séjours en famille ou entre amis aucune hésitation c'est le lieu qu'il vous faut ;)",
+  "giteConcerne": "petit-nay",
+  "createdAt": {
+    "$date": "2021-03-08T16:48:26.890Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-08T16:48:26.890Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6046557dc5d5820011daca45"
+  },
+  "actif": false,
+  "client": "Laura",
+  "note": 5,
+  "commentaire": "Week end entre amis pour un anniversaire. La gîte a totalement correspondu à nos attentes, belle surprise en voyant le sous sol qui contient la salle de jeu ainsi que là piscine. Tout le monde a su trouver sa place et personne ne s’y est ennuyé. Nous reviendrons.",
+  "giteConcerne": "lauberoye",
+  "createdAt": {
+    "$date": "2021-03-08T16:49:01.857Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-08T16:49:01.857Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6046559cc5d5820011daca46"
+  },
+  "actif": false,
+  "client": "Lecocq",
+  "note": 5,
+  "commentaire": "Séjour sympathique, le gite est convivial et bien pensé. Le poêle à bois était très appréciable par ce grand froid, l'espace détente et piscine très agréable également. Bon contact avec les propriétaires, qui sont accueillants et sérieux. Séjour très positif !",
+  "giteConcerne": "manola",
+  "createdAt": {
+    "$date": "2021-03-08T16:49:32.235Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-08T16:49:32.235Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604655b9c5d5820011daca47"
+  },
+  "actif": false,
+  "client": "M&M",
+  "note": 5,
+  "commentaire": "C’est avec plaisir que nous sommes revenus cette année dans cette magnifique maison . Nous avons été chaleureusement accueillis par des propriétaires très attentionnés . Le gite est splendide, très bien équipée et fonctionnelle. La maison est reposante. Quel bonheur de voir nos enfants s éclater dans la piscine et de pouvoir se délasser dans le jacuzzi. Nous espérons pouvoir revenir très prochainement !\t",
+  "giteConcerne": "brinchette",
+  "createdAt": {
+    "$date": "2021-03-08T16:50:01.968Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-08T16:50:01.968Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604655e4c5d5820011daca48"
+  },
+  "actif": false,
+  "client": "Mag Bapt",
+  "note": 5,
+  "commentaire": "Nous recherchions un grand gîte, bien équipé, en pleine nature, avec bcp d espace pour un anniversaire champêtre entre amis et en famille (50 personnes: 30 adultes et 20 enfants), Le gite du petit Nay a tout fait répondu à nos attentes, les retours de nos amis ont été tous positifs! Les chambres sont spacieuses, propres, les couchages de qualité, la cuisine spacieuse aussi, bcp de possibilté de rangement, bien équipée, la chambre froide, très pratique. L'espace extérieur nous a permis d installer un terrain de volley, des jeux d extérieur, une grande tonnelle. Trampoline, Jacuzzi et salle de jeux ont été fort appréciés des enfants et des adultes. C'est un week end qui restera dans nos mémoires, c'était juste magnifique!",
+  "giteConcerne": "petit-nay",
+  "createdAt": {
+    "$date": "2021-03-08T16:50:44.087Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-08T16:50:44.087Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60465605c5d5820011daca49"
+  },
+  "actif": false,
+  "client": "Nelson",
+  "note": 5,
+  "commentaire": "Bonour, pour mes 40 ans nous avons séjourné au gîte Lauberoye à 22 personnes dont 4 enfants. Malgré la pluie tout était réuni pour que ce séjour soit réussi. Un grand merci pour votre accueil , votre gentillesse et votre délicate attention de nous ajouter un second barbecue mobile. Merci aussi pour la disponibilité de JONAS très à l'écoute. Si je peux me permettre une remarque : ce serait qu'une ou 2 chambres du rdc mériteraient une petite rénovation. Hormis cela que du bonheur. Bravo et à bientôt !",
+  "giteConcerne": "lauberoye",
+  "createdAt": {
+    "$date": "2021-03-08T16:51:17.644Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-08T16:51:17.644Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608136b1e14f7e52a4c0cff1"
+  },
+  "actif": true,
+  "client": "B. G",
+  "note": 5,
+  "commentaire": "Impeccable pour tout.\nVraiment ça nous a fait un bien fou, surtout à ma femme qui bosse en réa, depuis l’année dernière. Alors vraiment, changé d’air, et ne plus penser au boulot, c’était « indispensable ». Encore merci, et pourquoi pas à une autre fois…\nSachant qu’on a déjà un paquet d’ami(e)s qui nous ont demandé vos coordonnées.\n",
+  "giteConcerne": "brinchette",
+  "dateReview": {
+    "$date": "2021-04-22T08:41:21.152Z"
+  },
+  "createdAt": {
+    "$date": "2021-04-22T08:41:21.156Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-22T08:41:49.584Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6082cb0398b96700107cf8dc"
+  },
+  "actif": true,
+  "client": "Didier P.",
+  "note": 5,
+  "commentaire": "Nous reviendrons sans souci. Grande qualité d'accueil et a l'écoute de ses clients.  Un grand bravo. ",
+  "giteConcerne": "brinchette",
+  "dateReview": {
+    "$date": "2021-04-23T13:26:27.629Z"
+  },
+  "createdAt": {
+    "$date": "2021-04-23T13:26:27.631Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-23T13:26:27.631Z"
+  },
+  "__v": 0
+}]

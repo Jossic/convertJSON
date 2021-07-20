@@ -1,0 +1,339 @@
+[{
+  "_id": {
+    "$oid": "6011caf0620a99644cd07f48"
+  },
+  "question": "-QUELLES PRÉCAUTIONS PRENEZ-VOUS SUITE À LA PANDÉMIE COVID-19 ?",
+  "reponse": "Les femmes de ménage utilisaient déjà des produits de professionnels bactéricides et fongicides pour le nettoyage des gîtes. Le linge de lits est fourni par un prestataire (SDEZ à Muizon) qui a aussi des clents comme des hôpitaux et hôtels. L’eau des spas est changée entre chaque location, ce que nous faisions déjà et l’eau des piscines est régulièrement analysée par un laboratoire.",
+  "createdAt": {
+    "$date": "2021-01-27T20:20:00.612Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:55:21.122Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6011cafb620a99644cd07f49"
+  },
+  "question": "-AVEZ-VOUS REMBOURSÉ LES ACOMPTES DANS LE CADRE DU COVID-19 ?",
+  "reponse": "Oui, lorsque les clients ont demandé un report, nous avons reporté l’acompte déjà versé sur le nouveau contrat, sinon, nous avons fait un prêt à la banque et nous avons remboursé tous les acomptes pour les autres.",
+  "createdAt": {
+    "$date": "2021-01-27T20:20:11.608Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T21:55:36.874Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6011cb07620a99644cd07f4a"
+  },
+  "question": "-Y A T-IL PLUSIEURS GÎTES ?",
+  "reponse": "Actuellement, nous avons trois gîtes avec piscine et 1 gîte de grande capacité sans piscine (la construction devrait être terminée pour le 1er trimestre 2022), Vous pouvez parcourir le site pour avoir plus d’informations.",
+  "createdAt": {
+    "$date": "2021-01-27T20:20:23.166Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-14T08:13:40.048Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6011cb0d620a99644cd07f4b"
+  },
+  "question": "-JUSQUE QUELLE ÉPOQUE PEUT ON SE BAIGNER ?",
+  "reponse": "La piscine est couverte et chauffée en permanence, on peut donc se baigner toute l’année. Il n'y a pas de restriction au niveau des horaires. La température de l’eau varie entre 26 et 28 °.",
+  "createdAt": {
+    "$date": "2021-01-27T20:20:29.870Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-14T08:12:38.683Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6011cb1d620a99644cd07f4c"
+  },
+  "question": "-Y A T-IL POSSIBILITÉ DE NE LOUER QU'UNE CHAMBRE ?",
+  "reponse": "Non, les gîtes sont toujours loués en totalité.",
+  "createdAt": {
+    "$date": "2021-01-27T20:20:45.341Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-27T20:20:45.341Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6011cb27620a99644cd07f4d"
+  },
+  "question": "-QUI A T'IL COMME POISSONS DANS LES ÉTANGS ?",
+  "reponse": "A Lauberoye et au Petit Nay, il y a carpes, tanches, brochets, gardons, perches, sandres. Nous ne fournissons pas le matériel de pêche.\n\n",
+  "createdAt": {
+    "$date": "2021-01-27T20:20:55.501Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-12T12:23:06.657Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6011cb37620a99644cd07f4e"
+  },
+  "question": "-QUELLE EST LA GARE LA PLUS PROCHE ?",
+  "reponse": "C’est Rethel à 53 km (48 mn) ou Sedan à 38 km (44 mn, le trajet passe par de petites routes de campagne).",
+  "createdAt": {
+    "$date": "2021-01-27T20:21:11.220Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-27T20:21:11.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6011cb53620a99644cd07f4f"
+  },
+  "question": "-QU'Y A T-IL COMME JEU DE PISCINE ?",
+  "reponse": "Il n’y a pas de jeux gonflables, ceux ci sont trop fragiles, par contre vous pouvez en amener. Il y a un filet de volley mais plus de ballons et nous ne les remplaçons plus.",
+  "createdAt": {
+    "$date": "2021-01-27T20:21:39.383Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-27T21:18:00.386Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6044a30d61e585126c5462c5"
+  },
+  "question": "-OÙ PEUT ON TROUVER UN BAR TABAC À PROXIMITÉ DES GÎTES ?",
+  "reponse": "Selon le gîte voici un tableau des distances kilométriques entre chaque gîte et les différents Bar tabac\nManola :        Grandpré 17       Brieulles sur Bar 14\t   Le Chesne 24\t       Vouziers 26          Stenay 18        Sedan 39\nBrinchette : \tGrandpré 13       Brieulles sur Bar 10\t   Le Chesne 19\t       Vouziers 22          Stenay 22        Sedan 37\nLauberoye :\tGrandpré 21       Brieulles sur Bar  9\t   Le Chesne 18\t       Vouziers 26          Stenay 29        Sedan 36  \nPetit Nay :\tGrandpré 22       Brieulles sur Bar 19\t   Le Chesne 29\t       Vouziers 31          Stenay 12        Sedan 39",
+  "createdAt": {
+    "$date": "2021-03-07T09:55:25.976Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-13T11:12:11.774Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6044a35761e585126c5462c6"
+  },
+  "question": "-EQUIPEMENTS TV ET CHAINE HI FI ?",
+  "reponse": "Manola, au gîte, 1 smart TV et 1 barre de son avec USB et bluetooth, à la piscine une chaine hi-fi avec USB et bluetooth,\n\nBrinchette, Rez de chaussée, 1 TV et 1 chaîne hi-fi avec USB et bluetooth, à la salle de jeux, une smart TV  et une barre de son avec USB et bluetooth.\n\nLauberoye, Rez de chaussée, 1 smart TV et 1 barre de son avec USB et bluetooth, à la salle de jeux, 1 TV, 1 home cinema avec USB et une chaîne hi-fi avec USB et bluetooth pour la piscine,\n\nPetit Nay, dans le bar, 1 smart TV et 1 barre de son avec USB et bluetooth, à la salle de jeux,1 smart TV et une barre de son avec USB et bluetooth,",
+  "createdAt": {
+    "$date": "2021-03-07T09:56:39.659Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-07T09:56:39.659Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6044a38b61e585126c5462c7"
+  },
+  "question": "-Y A T'IL DES FLÛTES À CHAMPAGNE ?",
+  "reponse": "oui, dans chaque gîte, il y a entre 20 et 30 flûtes (un peu moins sur manola) et il y a aussi des verres ballons.\n\nPour le gîte du Petit Nay, nous dire si vous avez besoin de plus de matériel car nous ne mettons pas tout à disposition",
+  "createdAt": {
+    "$date": "2021-03-07T09:57:31.828Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-07T09:57:31.828Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6044a3b461e585126c5462c8"
+  },
+  "question": "-ACCEPTEZ VOUS LES CHÈQUES VACANCES ?",
+  "reponse": "Nous acceptons effectivement les chèques vacances ANCV, ainsi que les chèques vacances connect.",
+  "createdAt": {
+    "$date": "2021-03-07T09:58:12.032Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-07T09:58:12.032Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6044a3ce61e585126c5462c9"
+  },
+  "question": "-ACCEPTEZ VOUS LES BONS CAF ?",
+  "reponse": "En ce qui concerne ces bons, voici la réponse que nous avons eu à notre demande : Comme suite à votre demande de labellisation, je vous confirme que Vacaf ne labellise pas les gîtes et logements de particuliers. Uniquement des structures de vacances de type camping (2* minimum), maison familiale de vacances, centre de vacances avec clubs enfants. Par contre, certaines CAF émettent des bons vacances famille et pour ceux-ci, nous pouvons vous fournir une facture et apposer notre cachet sur le document que vous recevez de la CAF.",
+  "createdAt": {
+    "$date": "2021-03-07T09:58:38.542Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-07T09:58:38.542Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6044a3f461e585126c5462ca"
+  },
+  "question": "-SUR LES VIDÉOS, ON VOIT UN TOBBOGAN DANS LA PISCINE, IL N'Y EN A PAS SUR LES PHOTOS ?",
+  "reponse": "Seule la piscine du gîte Manola a un toboggan.",
+  "createdAt": {
+    "$date": "2021-03-07T09:59:16.887Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-07T09:59:16.887Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6044a40e61e585126c5462cb"
+  },
+  "question": "-SUR LES PHOTOS, IL Y A UNE WII, MAIS Y A T'IL AUSSI DES JEUX ?, COMBIEN Y A T'IL DE MANETTES ?",
+  "reponse": "Nous en avions mis au départ, mais ceux ci ont très vite été détériorés, le mieux est d’amener les vôtres, il y a 4 manettes sur la WII.",
+  "createdAt": {
+    "$date": "2021-03-07T09:59:42.989Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-07T09:59:42.989Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6044a42161e585126c5462cc"
+  },
+  "question": "-VOS APPAREILS (SPA, CABINE INFRA ROUGE) SONT ILS TOUJOURS EN FONCTIONNEMENT ?",
+  "reponse": "Nous faisons le maximum pour entretenir le matériel mais nous ne sommes pas à l’abri d’une panne ou même d’une détérioration de locataires. Si c’est le cas, c’est très difficile de se faire dépanner les week ends et comme nous avons acheté certains éléments sur internet, nous avons parfois quelques délais pour recevoir des pièces défectueuses.",
+  "createdAt": {
+    "$date": "2021-03-07T10:00:01.649Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-07T10:00:01.649Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6044a43661e585126c5462cd"
+  },
+  "question": "-AVEZ VOUS DU MATÉRIEL POUR BÉBÉ ?",
+  "reponse": "Les gîtes sont équipés de 2 lits bébé (4 au Petit Nay), de 2 chaises hautes dont une avec tablette (4 au Petit Nay), 1 baignoire pour bébé, 1 matelas à langer et un réducteur de WC.",
+  "createdAt": {
+    "$date": "2021-03-07T10:00:22.039Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-14T08:11:46.329Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6044a45161e585126c5462ce"
+  },
+  "question": "-Y A T'IL DES APPAREILS SPÉCIFIQUES DE CUISSON ?",
+  "reponse": "Appareils à raclette, appareils à fondue (alcool à brûler sur Manola), à croque monsieur, 1 cocotte minute, et il y a une friteuse manuelle.",
+  "createdAt": {
+    "$date": "2021-03-07T10:00:49.406Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-07T10:00:49.406Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6044a46c61e585126c5462cf"
+  },
+  "question": "-LES LITS SONT ILS FAITS À NOTRE ARRIVÉE ? LES DRAPS FOURNIS ?",
+  "reponse": "Non, les lits ne sont pas faits, il existe une option facultative pour cela, (voir tarifs). Les draps, oreillers, couette et couvertures sont fournis.",
+  "createdAt": {
+    "$date": "2021-03-07T10:01:16.458Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-07T10:01:16.458Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604650e0c5d5820011daca30"
+  },
+  "question": "-LES CHARGES SONT-ELLES COMPRISES ?",
+  "reponse": "Seule la taxe de séjour (calculée sur le chiffre d’affaire) imposée par la communauté de commune n’est pas comprise dans le tarif. Si vous utilisez la simulation sur notre site, vous aurez le tarif tout compris.",
+  "createdAt": {
+    "$date": "2021-03-08T16:29:20.759Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-08T16:29:20.759Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6046513ec5d5820011daca31"
+  },
+  "question": "-LA TÉLÉVISION A T-ELLE LES CHAÎNES CABLÉES ?",
+  "reponse": "Sur les smart TV vous pouvez utiliser vos codes de connexion pour d’autres chaînes",
+  "createdAt": {
+    "$date": "2021-03-08T16:30:54.963Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-08T16:30:54.963Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6046515ac5d5820011daca32"
+  },
+  "question": "-IL Y A UN BARBECUE AU CHARBON DE BOIS DANS CHAQUE GÎTE, FOURNISSEZ VOUS LE CHARBON DE BOIS ?",
+  "reponse": "Non, nous en avons toujours d’avance, nous pouvons vous en vendre le cas échéant, il y en a également au proxi à Buzancy.",
+  "createdAt": {
+    "$date": "2021-03-08T16:31:22.946Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-08T16:31:22.946Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6046519bc5d5820011daca33"
+  },
+  "question": "-Y A T'IL UN FEU À L'ÂTRE ?, UNE CHEMINÉE ?",
+  "reponse": "Manola et Brinchette ont un poêle à Bois et Lauberoye et le Petit Nay ont un insert dans une cheminée. Vous pouvez acheter des sacs de buchettes au magasin de proximité à Buzancy.",
+  "createdAt": {
+    "$date": "2021-03-08T16:32:27.323Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-08T16:32:27.323Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604651b9c5d5820011daca34"
+  },
+  "question": "-QUELS SONT LES HORAIRES POUR ARRIVER ?",
+  "reponse": "Etant donné que nous n’habitons pas toujours sur place, nous vous demandons de nous prévenir de l’heure de votre arrivée. Pour un week end, les horaires sont du vendredi 17 heures au dimanche 17 heures. Pour une semaine, les heures d’arrivée sont le samedi à partir de 15 heures jusqu’au samedi suivant au plus tard à 11 heures.",
+  "createdAt": {
+    "$date": "2021-03-08T16:32:57.617Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-08T16:32:57.617Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604651f2c5d5820011daca35"
+  },
+  "question": "-ACCEPTEZ VOUS LES CHIENS ?",
+  "reponse": "Nous demandons un supplément de 3 € par jour et par animal pour nos amis les chiens.",
+  "createdAt": {
+    "$date": "2021-03-08T16:33:54.465Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-08T16:33:54.465Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6076a35f5a454600115a383e"
+  },
+  "question": "-L'ACCES AUX JEUX DANS LE JARDIN EST IL ACCESSIBLE PAR LES CLIENTS DES 4 GITES  ?",
+  "reponse": "Nos gites sont dans des villages différents donc les jeux sont uniquement pour les locataires du gîte loué.\n",
+  "createdAt": {
+    "$date": "2021-04-14T08:10:07.998Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-14T08:10:07.998Z"
+  },
+  "__v": 0
+}]
